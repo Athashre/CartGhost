@@ -1,0 +1,2481 @@
+customer_id,completed_orders,last_order_date,days_since_last_order,potentially_churned,customer_status
+CUST01347,2,2026-01-16,279,True,Potentially Churned
+CUST00510,2,2026-01-18,277,True,Potentially Churned
+CUST02193,2,2026-01-23,272,True,Potentially Churned
+CUST01638,3,2026-01-27,268,True,Potentially Churned
+CUST01966,3,2026-02-02,262,True,Potentially Churned
+CUST00462,3,2026-02-02,262,True,Potentially Churned
+CUST02083,2,2026-02-04,260,True,Potentially Churned
+CUST00221,2,2026-02-05,259,True,Potentially Churned
+CUST01574,3,2026-02-06,258,True,Potentially Churned
+CUST01331,2,2026-02-06,258,True,Potentially Churned
+CUST01109,2,2026-02-14,250,True,Potentially Churned
+CUST01575,2,2026-02-15,249,True,Potentially Churned
+CUST02164,4,2026-02-19,245,True,Potentially Churned
+CUST01303,4,2026-02-20,244,True,Potentially Churned
+CUST00304,2,2026-02-20,244,True,Potentially Churned
+CUST02352,3,2026-02-21,243,True,Potentially Churned
+CUST00107,2,2026-02-23,241,True,Potentially Churned
+CUST00716,2,2026-02-25,239,True,Potentially Churned
+CUST01502,2,2026-02-25,239,True,Potentially Churned
+CUST00858,2,2026-02-27,237,True,Potentially Churned
+CUST00376,4,2026-03-03,233,True,Potentially Churned
+CUST01300,3,2026-03-04,232,True,Potentially Churned
+CUST00051,2,2026-03-04,232,True,Potentially Churned
+CUST01339,2,2026-03-05,231,True,Potentially Churned
+CUST01226,3,2026-03-07,229,True,Potentially Churned
+CUST02154,2,2026-03-10,226,True,Potentially Churned
+CUST00882,2,2026-03-11,225,True,Potentially Churned
+CUST01621,3,2026-03-12,224,True,Potentially Churned
+CUST00237,2,2026-03-13,223,True,Potentially Churned
+CUST02392,2,2026-03-14,222,True,Potentially Churned
+CUST00028,2,2026-03-14,222,True,Potentially Churned
+CUST00408,3,2026-03-15,221,True,Potentially Churned
+CUST00842,3,2026-03-15,221,True,Potentially Churned
+CUST01210,2,2026-03-16,220,True,Potentially Churned
+CUST00168,3,2026-03-18,218,True,Potentially Churned
+CUST00532,2,2026-03-18,218,True,Potentially Churned
+CUST01083,5,2026-03-20,216,True,Potentially Churned
+CUST01594,5,2026-03-20,216,True,Potentially Churned
+CUST02331,3,2026-03-21,215,True,Potentially Churned
+CUST01789,2,2026-03-21,215,True,Potentially Churned
+CUST01447,3,2026-03-23,213,True,Potentially Churned
+CUST02119,3,2026-03-24,212,True,Potentially Churned
+CUST00029,2,2026-03-26,210,True,Potentially Churned
+CUST01708,4,2026-03-27,209,True,Potentially Churned
+CUST01765,3,2026-03-29,207,True,Potentially Churned
+CUST02279,2,2026-03-29,207,True,Potentially Churned
+CUST00375,3,2026-03-31,205,True,Potentially Churned
+CUST02364,2,2026-03-31,205,True,Potentially Churned
+CUST01197,4,2026-03-31,205,True,Potentially Churned
+CUST00371,2,2026-03-31,205,True,Potentially Churned
+CUST01759,3,2026-03-31,205,True,Potentially Churned
+CUST01426,2,2026-04-01,204,True,Potentially Churned
+CUST00823,4,2026-04-02,203,True,Potentially Churned
+CUST00622,6,2026-04-03,202,True,Potentially Churned
+CUST00552,3,2026-04-04,201,True,Potentially Churned
+CUST01611,4,2026-04-05,200,True,Potentially Churned
+CUST01003,2,2026-04-05,200,True,Potentially Churned
+CUST02332,2,2026-04-06,199,True,Potentially Churned
+CUST00340,2,2026-04-07,198,True,Potentially Churned
+CUST01721,2,2026-04-08,197,True,Potentially Churned
+CUST01758,4,2026-04-08,197,True,Potentially Churned
+CUST00996,2,2026-04-08,197,True,Potentially Churned
+CUST01748,2,2026-04-09,196,True,Potentially Churned
+CUST01049,3,2026-04-09,196,True,Potentially Churned
+CUST01434,3,2026-04-09,196,True,Potentially Churned
+CUST02241,2,2026-04-09,196,True,Potentially Churned
+CUST01515,2,2026-04-09,196,True,Potentially Churned
+CUST02295,4,2026-04-10,195,True,Potentially Churned
+CUST02316,2,2026-04-10,195,True,Potentially Churned
+CUST01673,3,2026-04-11,194,True,Potentially Churned
+CUST02032,3,2026-04-12,193,True,Potentially Churned
+CUST02489,4,2026-04-13,192,True,Potentially Churned
+CUST01836,3,2026-04-13,192,True,Potentially Churned
+CUST01198,3,2026-04-14,191,True,Potentially Churned
+CUST01752,2,2026-04-14,191,True,Potentially Churned
+CUST00729,4,2026-04-15,190,True,Potentially Churned
+CUST02386,3,2026-04-15,190,True,Potentially Churned
+CUST01129,6,2026-04-15,190,True,Potentially Churned
+CUST00499,2,2026-04-15,190,True,Potentially Churned
+CUST00665,3,2026-04-16,189,True,Potentially Churned
+CUST00203,6,2026-04-17,188,True,Potentially Churned
+CUST00591,4,2026-04-17,188,True,Potentially Churned
+CUST00034,2,2026-04-17,188,True,Potentially Churned
+CUST01374,4,2026-04-18,187,True,Potentially Churned
+CUST00998,3,2026-04-19,186,True,Potentially Churned
+CUST01917,3,2026-04-19,186,True,Potentially Churned
+CUST01493,4,2026-04-19,186,True,Potentially Churned
+CUST01950,3,2026-04-22,183,True,Potentially Churned
+CUST00608,5,2026-04-22,183,True,Potentially Churned
+CUST01499,4,2026-04-22,183,True,Potentially Churned
+CUST01808,2,2026-04-22,183,True,Potentially Churned
+CUST02099,3,2026-04-22,183,True,Potentially Churned
+CUST00619,2,2026-04-23,182,True,Potentially Churned
+CUST01720,3,2026-04-24,181,True,Potentially Churned
+CUST02087,2,2026-04-24,181,True,Potentially Churned
+CUST00739,7,2026-04-25,180,True,Potentially Churned
+CUST01676,3,2026-04-25,180,True,Potentially Churned
+CUST01018,3,2026-04-25,180,True,Potentially Churned
+CUST01504,5,2026-04-25,180,True,Potentially Churned
+CUST02390,2,2026-04-26,179,True,Potentially Churned
+CUST00214,2,2026-04-28,177,True,Potentially Churned
+CUST01654,2,2026-04-29,176,True,Potentially Churned
+CUST02356,2,2026-04-29,176,True,Potentially Churned
+CUST00049,2,2026-04-29,176,True,Potentially Churned
+CUST01294,2,2026-04-30,175,True,Potentially Churned
+CUST02016,2,2026-05-01,174,True,Potentially Churned
+CUST02135,4,2026-05-01,174,True,Potentially Churned
+CUST01706,3,2026-05-02,173,True,Potentially Churned
+CUST00225,4,2026-05-02,173,True,Potentially Churned
+CUST00713,5,2026-05-03,172,True,Potentially Churned
+CUST00681,3,2026-05-03,172,True,Potentially Churned
+CUST01833,3,2026-05-03,172,True,Potentially Churned
+CUST01756,6,2026-05-04,171,True,Potentially Churned
+CUST02082,5,2026-05-04,171,True,Potentially Churned
+CUST01690,2,2026-05-04,171,True,Potentially Churned
+CUST01456,4,2026-05-05,170,True,Potentially Churned
+CUST02023,3,2026-05-07,168,True,Potentially Churned
+CUST02365,3,2026-05-07,168,True,Potentially Churned
+CUST00579,4,2026-05-07,168,True,Potentially Churned
+CUST00742,3,2026-05-07,168,True,Potentially Churned
+CUST02269,2,2026-05-08,167,True,Potentially Churned
+CUST01218,3,2026-05-08,167,True,Potentially Churned
+CUST02453,5,2026-05-08,167,True,Potentially Churned
+CUST02368,2,2026-05-08,167,True,Potentially Churned
+CUST00905,3,2026-05-08,167,True,Potentially Churned
+CUST01525,2,2026-05-09,166,True,Potentially Churned
+CUST01612,3,2026-05-09,166,True,Potentially Churned
+CUST00699,2,2026-05-09,166,True,Potentially Churned
+CUST02439,5,2026-05-09,166,True,Potentially Churned
+CUST00788,2,2026-05-10,165,True,Potentially Churned
+CUST01471,4,2026-05-10,165,True,Potentially Churned
+CUST00678,3,2026-05-10,165,True,Potentially Churned
+CUST00734,4,2026-05-11,164,True,Potentially Churned
+CUST01817,2,2026-05-11,164,True,Potentially Churned
+CUST02278,3,2026-05-12,163,True,Potentially Churned
+CUST01215,3,2026-05-13,162,True,Potentially Churned
+CUST01385,2,2026-05-13,162,True,Potentially Churned
+CUST01602,4,2026-05-14,161,True,Potentially Churned
+CUST00811,4,2026-05-14,161,True,Potentially Churned
+CUST01514,2,2026-05-15,160,True,Potentially Churned
+CUST01847,4,2026-05-15,160,True,Potentially Churned
+CUST00961,3,2026-05-15,160,True,Potentially Churned
+CUST00373,2,2026-05-15,160,True,Potentially Churned
+CUST00104,4,2026-05-16,159,True,Potentially Churned
+CUST01926,5,2026-05-16,159,True,Potentially Churned
+CUST02396,2,2026-05-17,158,True,Potentially Churned
+CUST00762,3,2026-05-17,158,True,Potentially Churned
+CUST00987,3,2026-05-17,158,True,Potentially Churned
+CUST02069,4,2026-05-17,158,True,Potentially Churned
+CUST01081,6,2026-05-17,158,True,Potentially Churned
+CUST01255,2,2026-05-17,158,True,Potentially Churned
+CUST01821,2,2026-05-17,158,True,Potentially Churned
+CUST00405,4,2026-05-18,157,True,Potentially Churned
+CUST00145,4,2026-05-18,157,True,Potentially Churned
+CUST01273,2,2026-05-18,157,True,Potentially Churned
+CUST02129,4,2026-05-19,156,True,Potentially Churned
+CUST00653,3,2026-05-20,155,True,Potentially Churned
+CUST01463,4,2026-05-20,155,True,Potentially Churned
+CUST02407,4,2026-05-20,155,True,Potentially Churned
+CUST01234,5,2026-05-21,154,True,Potentially Churned
+CUST01956,5,2026-05-21,154,True,Potentially Churned
+CUST02267,2,2026-05-21,154,True,Potentially Churned
+CUST01314,6,2026-05-21,154,True,Potentially Churned
+CUST00027,2,2026-05-22,153,True,Potentially Churned
+CUST00644,6,2026-05-23,152,True,Potentially Churned
+CUST01342,5,2026-05-23,152,True,Potentially Churned
+CUST01401,4,2026-05-24,151,True,Potentially Churned
+CUST02378,2,2026-05-24,151,True,Potentially Churned
+CUST00479,4,2026-05-25,150,True,Potentially Churned
+CUST01735,2,2026-05-25,150,True,Potentially Churned
+CUST00664,2,2026-05-25,150,True,Potentially Churned
+CUST01711,3,2026-05-25,150,True,Potentially Churned
+CUST01390,5,2026-05-25,150,True,Potentially Churned
+CUST02420,2,2026-05-25,150,True,Potentially Churned
+CUST00695,3,2026-05-26,149,True,Potentially Churned
+CUST00576,2,2026-05-26,149,True,Potentially Churned
+CUST01233,2,2026-05-27,148,True,Potentially Churned
+CUST00112,2,2026-05-27,148,True,Potentially Churned
+CUST00893,5,2026-05-28,147,True,Potentially Churned
+CUST01361,5,2026-05-28,147,True,Potentially Churned
+CUST02438,3,2026-05-28,147,True,Potentially Churned
+CUST00191,2,2026-05-28,147,True,Potentially Churned
+CUST01125,4,2026-05-29,146,True,Potentially Churned
+CUST01982,2,2026-05-29,146,True,Potentially Churned
+CUST00840,5,2026-05-29,146,True,Potentially Churned
+CUST00343,6,2026-05-29,146,True,Potentially Churned
+CUST00333,2,2026-05-29,146,True,Potentially Churned
+CUST02034,4,2026-05-30,145,True,Potentially Churned
+CUST00764,3,2026-05-30,145,True,Potentially Churned
+CUST00308,2,2026-05-30,145,True,Potentially Churned
+CUST00939,3,2026-05-30,145,True,Potentially Churned
+CUST00600,4,2026-05-30,145,True,Potentially Churned
+CUST01261,6,2026-05-30,145,True,Potentially Churned
+CUST02229,2,2026-05-30,145,True,Potentially Churned
+CUST01832,4,2026-05-30,145,True,Potentially Churned
+CUST00568,2,2026-05-30,145,True,Potentially Churned
+CUST00046,3,2026-05-30,145,True,Potentially Churned
+CUST00693,5,2026-05-31,144,True,Potentially Churned
+CUST01889,3,2026-05-31,144,True,Potentially Churned
+CUST00302,7,2026-05-31,144,True,Potentially Churned
+CUST00460,4,2026-05-31,144,True,Potentially Churned
+CUST02047,3,2026-05-31,144,True,Potentially Churned
+CUST02017,3,2026-06-01,143,True,Potentially Churned
+CUST02250,2,2026-06-01,143,True,Potentially Churned
+CUST02317,8,2026-06-01,143,True,Potentially Churned
+CUST00233,3,2026-06-01,143,True,Potentially Churned
+CUST01974,3,2026-06-01,143,True,Potentially Churned
+CUST01618,2,2026-06-01,143,True,Potentially Churned
+CUST01760,6,2026-06-02,142,True,Potentially Churned
+CUST00737,5,2026-06-02,142,True,Potentially Churned
+CUST00809,5,2026-06-02,142,True,Potentially Churned
+CUST00429,2,2026-06-02,142,True,Potentially Churned
+CUST00879,5,2026-06-03,141,True,Potentially Churned
+CUST01472,6,2026-06-03,141,True,Potentially Churned
+CUST01644,8,2026-06-03,141,True,Potentially Churned
+CUST01164,4,2026-06-03,141,True,Potentially Churned
+CUST02239,2,2026-06-03,141,True,Potentially Churned
+CUST01732,2,2026-06-03,141,True,Potentially Churned
+CUST01327,5,2026-06-04,140,True,Potentially Churned
+CUST00913,4,2026-06-04,140,True,Potentially Churned
+CUST00578,5,2026-06-04,140,True,Potentially Churned
+CUST00306,5,2026-06-04,140,True,Potentially Churned
+CUST02374,3,2026-06-04,140,True,Potentially Churned
+CUST00502,3,2026-06-04,140,True,Potentially Churned
+CUST02290,4,2026-06-05,139,True,Potentially Churned
+CUST00195,6,2026-06-05,139,True,Potentially Churned
+CUST01876,3,2026-06-05,139,True,Potentially Churned
+CUST02008,3,2026-06-05,139,True,Potentially Churned
+CUST01552,2,2026-06-05,139,True,Potentially Churned
+CUST02231,3,2026-06-06,138,True,Potentially Churned
+CUST00439,3,2026-06-06,138,True,Potentially Churned
+CUST00198,5,2026-06-06,138,True,Potentially Churned
+CUST01268,6,2026-06-06,138,True,Potentially Churned
+CUST02110,4,2026-06-06,138,True,Potentially Churned
+CUST00205,3,2026-06-06,138,True,Potentially Churned
+CUST01912,5,2026-06-08,136,True,Potentially Churned
+CUST00972,6,2026-06-08,136,True,Potentially Churned
+CUST02228,2,2026-06-08,136,True,Potentially Churned
+CUST01948,4,2026-06-08,136,True,Potentially Churned
+CUST02306,3,2026-06-09,135,True,Potentially Churned
+CUST02169,6,2026-06-09,135,True,Potentially Churned
+CUST01563,2,2026-06-09,135,True,Potentially Churned
+CUST00443,3,2026-06-09,135,True,Potentially Churned
+CUST00668,3,2026-06-09,135,True,Potentially Churned
+CUST01678,4,2026-06-09,135,True,Potentially Churned
+CUST00631,2,2026-06-09,135,True,Potentially Churned
+CUST01500,4,2026-06-10,134,True,Potentially Churned
+CUST01775,3,2026-06-10,134,True,Potentially Churned
+CUST02141,3,2026-06-10,134,True,Potentially Churned
+CUST01852,2,2026-06-10,134,True,Potentially Churned
+CUST02225,3,2026-06-10,134,True,Potentially Churned
+CUST01600,3,2026-06-10,134,True,Potentially Churned
+CUST02457,2,2026-06-10,134,True,Potentially Churned
+CUST01161,3,2026-06-11,133,True,Potentially Churned
+CUST01403,3,2026-06-11,133,True,Potentially Churned
+CUST01066,3,2026-06-11,133,True,Potentially Churned
+CUST01615,5,2026-06-12,132,True,Potentially Churned
+CUST00182,5,2026-06-12,132,True,Potentially Churned
+CUST02185,3,2026-06-12,132,True,Potentially Churned
+CUST00115,5,2026-06-12,132,True,Potentially Churned
+CUST02389,3,2026-06-12,132,True,Potentially Churned
+CUST02234,2,2026-06-12,132,True,Potentially Churned
+CUST00311,7,2026-06-13,131,True,Potentially Churned
+CUST01949,6,2026-06-13,131,True,Potentially Churned
+CUST02191,5,2026-06-13,131,True,Potentially Churned
+CUST01794,4,2026-06-13,131,True,Potentially Churned
+CUST02353,2,2026-06-13,131,True,Potentially Churned
+CUST02357,5,2026-06-14,130,True,Potentially Churned
+CUST02051,2,2026-06-14,130,True,Potentially Churned
+CUST00967,2,2026-06-14,130,True,Potentially Churned
+CUST01435,3,2026-06-14,130,True,Potentially Churned
+CUST00853,4,2026-06-14,130,True,Potentially Churned
+CUST00773,5,2026-06-15,129,True,Potentially Churned
+CUST00280,4,2026-06-15,129,True,Potentially Churned
+CUST01232,6,2026-06-16,128,True,Potentially Churned
+CUST01071,6,2026-06-17,127,True,Potentially Churned
+CUST00403,6,2026-06-17,127,True,Potentially Churned
+CUST00397,6,2026-06-17,127,True,Potentially Churned
+CUST01181,4,2026-06-17,127,True,Potentially Churned
+CUST01077,2,2026-06-18,126,True,Potentially Churned
+CUST00080,2,2026-06-18,126,True,Potentially Churned
+CUST00580,2,2026-06-18,126,True,Potentially Churned
+CUST02387,3,2026-06-18,126,True,Potentially Churned
+CUST01104,2,2026-06-18,126,True,Potentially Churned
+CUST01370,2,2026-06-18,126,True,Potentially Churned
+CUST00457,3,2026-06-19,125,True,Potentially Churned
+CUST02301,5,2026-06-19,125,True,Potentially Churned
+CUST00363,2,2026-06-19,125,True,Potentially Churned
+CUST01737,4,2026-06-20,124,True,Potentially Churned
+CUST00127,3,2026-06-20,124,True,Potentially Churned
+CUST01165,5,2026-06-20,124,True,Potentially Churned
+CUST00003,3,2026-06-20,124,True,Potentially Churned
+CUST02147,4,2026-06-20,124,True,Potentially Churned
+CUST01074,6,2026-06-20,124,True,Potentially Churned
+CUST01138,5,2026-06-21,123,True,Potentially Churned
+CUST00834,3,2026-06-21,123,True,Potentially Churned
+CUST02223,5,2026-06-21,123,True,Potentially Churned
+CUST00362,2,2026-06-21,123,True,Potentially Churned
+CUST01980,4,2026-06-21,123,True,Potentially Churned
+CUST00980,4,2026-06-22,122,True,Potentially Churned
+CUST02245,5,2026-06-22,122,True,Potentially Churned
+CUST01467,2,2026-06-22,122,True,Potentially Churned
+CUST00453,3,2026-06-22,122,True,Potentially Churned
+CUST00014,8,2026-06-23,121,True,Potentially Churned
+CUST00118,3,2026-06-23,121,True,Potentially Churned
+CUST00295,3,2026-06-24,120,True,Potentially Churned
+CUST00247,3,2026-06-24,120,True,Potentially Churned
+CUST01898,2,2026-06-24,120,True,Potentially Churned
+CUST01032,3,2026-06-24,120,True,Potentially Churned
+CUST02238,4,2026-06-25,119,True,Potentially Churned
+CUST00131,2,2026-06-25,119,True,Potentially Churned
+CUST00797,2,2026-06-25,119,True,Potentially Churned
+CUST00520,6,2026-06-26,118,True,Potentially Churned
+CUST01591,2,2026-06-26,118,True,Potentially Churned
+CUST02195,5,2026-06-26,118,True,Potentially Churned
+CUST02035,4,2026-06-27,117,True,Potentially Churned
+CUST00583,4,2026-06-27,117,True,Potentially Churned
+CUST01886,3,2026-06-27,117,True,Potentially Churned
+CUST01840,3,2026-06-27,117,True,Potentially Churned
+CUST01645,2,2026-06-27,117,True,Potentially Churned
+CUST01626,3,2026-06-27,117,True,Potentially Churned
+CUST00892,3,2026-06-27,117,True,Potentially Churned
+CUST01669,4,2026-06-28,116,True,Potentially Churned
+CUST00692,5,2026-06-28,116,True,Potentially Churned
+CUST02440,4,2026-06-28,116,True,Potentially Churned
+CUST00464,4,2026-06-28,116,True,Potentially Churned
+CUST00305,4,2026-06-28,116,True,Potentially Churned
+CUST01870,4,2026-06-28,116,True,Potentially Churned
+CUST02045,3,2026-06-28,116,True,Potentially Churned
+CUST02237,6,2026-06-29,115,True,Potentially Churned
+CUST02028,4,2026-06-29,115,True,Potentially Churned
+CUST01663,6,2026-06-29,115,True,Potentially Churned
+CUST01240,5,2026-06-29,115,True,Potentially Churned
+CUST01313,6,2026-06-29,115,True,Potentially Churned
+CUST02093,2,2026-06-29,115,True,Potentially Churned
+CUST00575,5,2026-06-29,115,True,Potentially Churned
+CUST00819,4,2026-06-29,115,True,Potentially Churned
+CUST01943,3,2026-06-30,114,True,Potentially Churned
+CUST01045,4,2026-06-30,114,True,Potentially Churned
+CUST00068,5,2026-06-30,114,True,Potentially Churned
+CUST00239,5,2026-06-30,114,True,Potentially Churned
+CUST00381,3,2026-06-30,114,True,Potentially Churned
+CUST02460,2,2026-07-01,113,True,Potentially Churned
+CUST01918,3,2026-07-01,113,True,Potentially Churned
+CUST01784,7,2026-07-01,113,True,Potentially Churned
+CUST01465,3,2026-07-01,113,True,Potentially Churned
+CUST02013,3,2026-07-01,113,True,Potentially Churned
+CUST02073,4,2026-07-02,112,True,Potentially Churned
+CUST00887,4,2026-07-02,112,True,Potentially Churned
+CUST01202,4,2026-07-02,112,True,Potentially Churned
+CUST00786,5,2026-07-02,112,True,Potentially Churned
+CUST01158,6,2026-07-02,112,True,Potentially Churned
+CUST02470,5,2026-07-03,111,True,Potentially Churned
+CUST00125,3,2026-07-03,111,True,Potentially Churned
+CUST00623,3,2026-07-03,111,True,Potentially Churned
+CUST01522,7,2026-07-03,111,True,Potentially Churned
+CUST01816,3,2026-07-03,111,True,Potentially Churned
+CUST00646,3,2026-07-03,111,True,Potentially Churned
+CUST01508,3,2026-07-03,111,True,Potentially Churned
+CUST02215,4,2026-07-04,110,True,Potentially Churned
+CUST02393,2,2026-07-04,110,True,Potentially Churned
+CUST00990,4,2026-07-04,110,True,Potentially Churned
+CUST00816,6,2026-07-04,110,True,Potentially Churned
+CUST01450,5,2026-07-04,110,True,Potentially Churned
+CUST01503,2,2026-07-04,110,True,Potentially Churned
+CUST01709,3,2026-07-04,110,True,Potentially Churned
+CUST00822,4,2026-07-04,110,True,Potentially Churned
+CUST01112,4,2026-07-04,110,True,Potentially Churned
+CUST01056,3,2026-07-04,110,True,Potentially Churned
+CUST02149,3,2026-07-05,109,True,Potentially Churned
+CUST00033,2,2026-07-05,109,True,Potentially Churned
+CUST00609,2,2026-07-05,109,True,Potentially Churned
+CUST01016,2,2026-07-05,109,True,Potentially Churned
+CUST01915,3,2026-07-06,108,True,Potentially Churned
+CUST00897,3,2026-07-06,108,True,Potentially Churned
+CUST00036,3,2026-07-06,108,True,Potentially Churned
+CUST01250,2,2026-07-06,108,True,Potentially Churned
+CUST01963,2,2026-07-06,108,True,Potentially Churned
+CUST00240,6,2026-07-07,107,True,Potentially Churned
+CUST01617,4,2026-07-07,107,True,Potentially Churned
+CUST02260,6,2026-07-07,107,True,Potentially Churned
+CUST02098,3,2026-07-07,107,True,Potentially Churned
+CUST02170,4,2026-07-07,107,True,Potentially Churned
+CUST00865,3,2026-07-07,107,True,Potentially Churned
+CUST00844,3,2026-07-07,107,True,Potentially Churned
+CUST02322,3,2026-07-07,107,True,Potentially Churned
+CUST00949,2,2026-07-07,107,True,Potentially Churned
+CUST01276,3,2026-07-07,107,True,Potentially Churned
+CUST00231,3,2026-07-07,107,True,Potentially Churned
+CUST01443,2,2026-07-07,107,True,Potentially Churned
+CUST00746,3,2026-07-08,106,True,Potentially Churned
+CUST00278,5,2026-07-08,106,True,Potentially Churned
+CUST02189,5,2026-07-08,106,True,Potentially Churned
+CUST00450,5,2026-07-09,105,True,Potentially Churned
+CUST01993,4,2026-07-09,105,True,Potentially Churned
+CUST02409,10,2026-07-09,105,True,Potentially Churned
+CUST00101,5,2026-07-09,105,True,Potentially Churned
+CUST00934,3,2026-07-09,105,True,Potentially Churned
+CUST01769,4,2026-07-09,105,True,Potentially Churned
+CUST01404,5,2026-07-09,105,True,Potentially Churned
+CUST00452,2,2026-07-09,105,True,Potentially Churned
+CUST01392,4,2026-07-10,104,True,Potentially Churned
+CUST01420,6,2026-07-10,104,True,Potentially Churned
+CUST00704,5,2026-07-10,104,True,Potentially Churned
+CUST01729,2,2026-07-10,104,True,Potentially Churned
+CUST00715,2,2026-07-10,104,True,Potentially Churned
+CUST01304,5,2026-07-11,103,True,Potentially Churned
+CUST01000,4,2026-07-11,103,True,Potentially Churned
+CUST01237,4,2026-07-11,103,True,Potentially Churned
+CUST02334,4,2026-07-11,103,True,Potentially Churned
+CUST01519,6,2026-07-11,103,True,Potentially Churned
+CUST00192,6,2026-07-11,103,True,Potentially Churned
+CUST00604,10,2026-07-11,103,True,Potentially Churned
+CUST01796,6,2026-07-11,103,True,Potentially Churned
+CUST00835,4,2026-07-11,103,True,Potentially Churned
+CUST01800,8,2026-07-12,102,True,Potentially Churned
+CUST01222,4,2026-07-12,102,True,Potentially Churned
+CUST00183,5,2026-07-12,102,True,Potentially Churned
+CUST01432,6,2026-07-13,101,True,Potentially Churned
+CUST00243,7,2026-07-13,101,True,Potentially Churned
+CUST02021,6,2026-07-13,101,True,Potentially Churned
+CUST02452,4,2026-07-13,101,True,Potentially Churned
+CUST00187,3,2026-07-13,101,True,Potentially Churned
+CUST01293,4,2026-07-13,101,True,Potentially Churned
+CUST00234,7,2026-07-14,100,True,Potentially Churned
+CUST00065,3,2026-07-14,100,True,Potentially Churned
+CUST00564,5,2026-07-14,100,True,Potentially Churned
+CUST00113,7,2026-07-14,100,True,Potentially Churned
+CUST00873,4,2026-07-14,100,True,Potentially Churned
+CUST01094,4,2026-07-14,100,True,Potentially Churned
+CUST00388,8,2026-07-15,99,True,Potentially Churned
+CUST00772,6,2026-07-15,99,True,Potentially Churned
+CUST00792,6,2026-07-15,99,True,Potentially Churned
+CUST00777,5,2026-07-15,99,True,Potentially Churned
+CUST01416,3,2026-07-15,99,True,Potentially Churned
+CUST02345,5,2026-07-15,99,True,Potentially Churned
+CUST02360,3,2026-07-15,99,True,Potentially Churned
+CUST00875,4,2026-07-15,99,True,Potentially Churned
+CUST01922,2,2026-07-15,99,True,Potentially Churned
+CUST00337,3,2026-07-15,99,True,Potentially Churned
+CUST00633,5,2026-07-16,98,True,Potentially Churned
+CUST02097,2,2026-07-16,98,True,Potentially Churned
+CUST00216,4,2026-07-16,98,True,Potentially Churned
+CUST00425,7,2026-07-16,98,True,Potentially Churned
+CUST00618,8,2026-07-16,98,True,Potentially Churned
+CUST00639,6,2026-07-16,98,True,Potentially Churned
+CUST00864,4,2026-07-16,98,True,Potentially Churned
+CUST01009,6,2026-07-16,98,True,Potentially Churned
+CUST00456,2,2026-07-16,98,True,Potentially Churned
+CUST01097,3,2026-07-17,97,True,Potentially Churned
+CUST02190,6,2026-07-17,97,True,Potentially Churned
+CUST01674,4,2026-07-17,97,True,Potentially Churned
+CUST01550,7,2026-07-17,97,True,Potentially Churned
+CUST01088,8,2026-07-17,97,True,Potentially Churned
+CUST02178,2,2026-07-17,97,True,Potentially Churned
+CUST00503,3,2026-07-17,97,True,Potentially Churned
+CUST02287,2,2026-07-17,97,True,Potentially Churned
+CUST01217,4,2026-07-18,96,True,Potentially Churned
+CUST00459,6,2026-07-18,96,True,Potentially Churned
+CUST01863,5,2026-07-18,96,True,Potentially Churned
+CUST00031,9,2026-07-18,96,True,Potentially Churned
+CUST01153,4,2026-07-18,96,True,Potentially Churned
+CUST00224,4,2026-07-18,96,True,Potentially Churned
+CUST01423,4,2026-07-18,96,True,Potentially Churned
+CUST01629,3,2026-07-18,96,True,Potentially Churned
+CUST02173,6,2026-07-19,95,True,Potentially Churned
+CUST00560,4,2026-07-19,95,True,Potentially Churned
+CUST01378,5,2026-07-19,95,True,Potentially Churned
+CUST00427,3,2026-07-19,95,True,Potentially Churned
+CUST02497,5,2026-07-19,95,True,Potentially Churned
+CUST02233,5,2026-07-20,94,True,Potentially Churned
+CUST02397,4,2026-07-20,94,True,Potentially Churned
+CUST00550,3,2026-07-20,94,True,Potentially Churned
+CUST01438,6,2026-07-20,94,True,Potentially Churned
+CUST01616,6,2026-07-20,94,True,Potentially Churned
+CUST00542,5,2026-07-20,94,True,Potentially Churned
+CUST00757,5,2026-07-20,94,True,Potentially Churned
+CUST02277,5,2026-07-20,94,True,Potentially Churned
+CUST01284,3,2026-07-20,94,True,Potentially Churned
+CUST01997,3,2026-07-20,94,True,Potentially Churned
+CUST00412,3,2026-07-21,93,True,Potentially Churned
+CUST02121,3,2026-07-22,92,True,Potentially Churned
+CUST00785,6,2026-07-22,92,True,Potentially Churned
+CUST01310,4,2026-07-22,92,True,Potentially Churned
+CUST02024,3,2026-07-22,92,True,Potentially Churned
+CUST01231,4,2026-07-22,92,True,Potentially Churned
+CUST01787,3,2026-07-23,91,True,Potentially Churned
+CUST00658,6,2026-07-23,91,True,Potentially Churned
+CUST01406,5,2026-07-23,91,True,Potentially Churned
+CUST01145,5,2026-07-23,91,True,Potentially Churned
+CUST00155,4,2026-07-23,91,True,Potentially Churned
+CUST01543,5,2026-07-23,91,True,Potentially Churned
+CUST00458,7,2026-07-23,91,True,Potentially Churned
+CUST01734,5,2026-07-23,91,True,Potentially Churned
+CUST01350,3,2026-07-23,91,True,Potentially Churned
+CUST02303,8,2026-07-24,90,True,Potentially Churned
+CUST01741,4,2026-07-24,90,True,Potentially Churned
+CUST01065,6,2026-07-24,90,True,Potentially Churned
+CUST01194,5,2026-07-24,90,True,Potentially Churned
+CUST00173,5,2026-07-24,90,True,Potentially Churned
+CUST02379,2,2026-07-24,90,True,Potentially Churned
+CUST00979,4,2026-07-24,90,True,Potentially Churned
+CUST01786,5,2026-07-24,90,True,Potentially Churned
+CUST01162,4,2026-07-24,90,True,Potentially Churned
+CUST00448,3,2026-07-24,90,True,Potentially Churned
+CUST00966,3,2026-07-24,90,True,Potentially Churned
+CUST00347,5,2026-07-24,90,True,Potentially Churned
+CUST00690,7,2026-07-24,90,True,Potentially Churned
+CUST02288,2,2026-07-24,90,True,Potentially Churned
+CUST00743,5,2026-07-25,89,True,Potentially Churned
+CUST02385,4,2026-07-25,89,True,Potentially Churned
+CUST01170,6,2026-07-25,89,True,Potentially Churned
+CUST00364,4,2026-07-25,89,True,Potentially Churned
+CUST02350,4,2026-07-25,89,True,Potentially Churned
+CUST01489,6,2026-07-25,89,True,Potentially Churned
+CUST02163,5,2026-07-25,89,True,Potentially Churned
+CUST01117,5,2026-07-25,89,True,Potentially Churned
+CUST00355,2,2026-07-25,89,True,Potentially Churned
+CUST01357,2,2026-07-25,89,True,Potentially Churned
+CUST00537,4,2026-07-26,88,True,Potentially Churned
+CUST01448,7,2026-07-26,88,True,Potentially Churned
+CUST01007,6,2026-07-26,88,True,Potentially Churned
+CUST00589,7,2026-07-26,88,True,Potentially Churned
+CUST02408,3,2026-07-26,88,True,Potentially Churned
+CUST01919,2,2026-07-26,88,True,Potentially Churned
+CUST02236,2,2026-07-26,88,True,Potentially Churned
+CUST01485,7,2026-07-26,88,True,Potentially Churned
+CUST02041,5,2026-07-27,87,True,Potentially Churned
+CUST02111,3,2026-07-27,87,True,Potentially Churned
+CUST01877,5,2026-07-27,87,True,Potentially Churned
+CUST00358,6,2026-07-27,87,True,Potentially Churned
+CUST01336,5,2026-07-27,87,True,Potentially Churned
+CUST00889,10,2026-07-27,87,True,Potentially Churned
+CUST00174,5,2026-07-27,87,True,Potentially Churned
+CUST00726,3,2026-07-27,87,True,Potentially Churned
+CUST02366,3,2026-07-27,87,True,Potentially Churned
+CUST02473,4,2026-07-27,87,True,Potentially Churned
+CUST00344,4,2026-07-27,87,True,Potentially Churned
+CUST01639,5,2026-07-27,87,True,Potentially Churned
+CUST01154,6,2026-07-28,86,True,Potentially Churned
+CUST00599,3,2026-07-28,86,True,Potentially Churned
+CUST00722,5,2026-07-28,86,True,Potentially Churned
+CUST00114,4,2026-07-28,86,True,Potentially Churned
+CUST00411,4,2026-07-28,86,True,Potentially Churned
+CUST00141,2,2026-07-28,86,True,Potentially Churned
+CUST01957,3,2026-07-28,86,True,Potentially Churned
+CUST01738,4,2026-07-28,86,True,Potentially Churned
+CUST00314,3,2026-07-28,86,True,Potentially Churned
+CUST00814,4,2026-07-28,86,True,Potentially Churned
+CUST00134,4,2026-07-28,86,True,Potentially Churned
+CUST00735,3,2026-07-28,86,True,Potentially Churned
+CUST01916,2,2026-07-28,86,True,Potentially Churned
+CUST01868,6,2026-07-29,85,True,Potentially Churned
+CUST00767,2,2026-07-29,85,True,Potentially Churned
+CUST01427,5,2026-07-29,85,True,Potentially Churned
+CUST01466,7,2026-07-29,85,True,Potentially Churned
+CUST02077,4,2026-07-29,85,True,Potentially Churned
+CUST01372,4,2026-07-29,85,True,Potentially Churned
+CUST00598,2,2026-07-29,85,True,Potentially Churned
+CUST01831,2,2026-07-29,85,True,Potentially Churned
+CUST00105,5,2026-07-30,84,True,Potentially Churned
+CUST02315,4,2026-07-30,84,True,Potentially Churned
+CUST02070,3,2026-07-30,84,True,Potentially Churned
+CUST00669,5,2026-07-30,84,True,Potentially Churned
+CUST01722,2,2026-07-30,84,True,Potentially Churned
+CUST00543,3,2026-07-30,84,True,Potentially Churned
+CUST02261,2,2026-07-30,84,True,Potentially Churned
+CUST01562,2,2026-07-30,84,True,Potentially Churned
+CUST01147,3,2026-07-30,84,True,Potentially Churned
+CUST01846,3,2026-07-31,83,True,Potentially Churned
+CUST02320,5,2026-07-31,83,True,Potentially Churned
+CUST02205,7,2026-07-31,83,True,Potentially Churned
+CUST00649,4,2026-07-31,83,True,Potentially Churned
+CUST00227,7,2026-07-31,83,True,Potentially Churned
+CUST01640,5,2026-07-31,83,True,Potentially Churned
+CUST02019,4,2026-07-31,83,True,Potentially Churned
+CUST01013,3,2026-07-31,83,True,Potentially Churned
+CUST01185,6,2026-07-31,83,True,Potentially Churned
+CUST01266,6,2026-07-31,83,True,Potentially Churned
+CUST01366,3,2026-07-31,83,True,Potentially Churned
+CUST00154,4,2026-07-31,83,True,Potentially Churned
+CUST02212,4,2026-07-31,83,True,Potentially Churned
+CUST00780,2,2026-07-31,83,True,Potentially Churned
+CUST01246,3,2026-08-01,82,True,Potentially Churned
+CUST01699,7,2026-08-01,82,True,Potentially Churned
+CUST01343,5,2026-08-01,82,True,Potentially Churned
+CUST00974,5,2026-08-01,82,True,Potentially Churned
+CUST01402,5,2026-08-01,82,True,Potentially Churned
+CUST00402,5,2026-08-01,82,True,Potentially Churned
+CUST02500,4,2026-08-01,82,True,Potentially Churned
+CUST00095,2,2026-08-01,82,True,Potentially Churned
+CUST01991,5,2026-08-01,82,True,Potentially Churned
+CUST00523,3,2026-08-01,82,True,Potentially Churned
+CUST00683,8,2026-08-02,81,True,Potentially Churned
+CUST02029,2,2026-08-02,81,True,Potentially Churned
+CUST01052,5,2026-08-02,81,True,Potentially Churned
+CUST01445,2,2026-08-02,81,True,Potentially Churned
+CUST00806,7,2026-08-02,81,True,Potentially Churned
+CUST02146,2,2026-08-02,81,True,Potentially Churned
+CUST00199,2,2026-08-02,81,True,Potentially Churned
+CUST00874,3,2026-08-02,81,True,Potentially Churned
+CUST01345,3,2026-08-02,81,True,Potentially Churned
+CUST02281,2,2026-08-02,81,True,Potentially Churned
+CUST00140,3,2026-08-02,81,True,Potentially Churned
+CUST02128,5,2026-08-02,81,True,Potentially Churned
+CUST00232,7,2026-08-03,80,True,Potentially Churned
+CUST01118,8,2026-08-03,80,True,Potentially Churned
+CUST01932,5,2026-08-03,80,True,Potentially Churned
+CUST00366,4,2026-08-03,80,True,Potentially Churned
+CUST02090,6,2026-08-03,80,True,Potentially Churned
+CUST00587,5,2026-08-03,80,True,Potentially Churned
+CUST00677,10,2026-08-03,80,True,Potentially Churned
+CUST00519,3,2026-08-03,80,True,Potentially Churned
+CUST01041,6,2026-08-03,80,True,Potentially Churned
+CUST02053,3,2026-08-03,80,True,Potentially Churned
+CUST00686,7,2026-08-04,79,True,Potentially Churned
+CUST01359,7,2026-08-04,79,True,Potentially Churned
+CUST01415,2,2026-08-04,79,True,Potentially Churned
+CUST02221,5,2026-08-04,79,True,Potentially Churned
+CUST01408,8,2026-08-04,79,True,Potentially Churned
+CUST01334,9,2026-08-04,79,True,Potentially Churned
+CUST01694,3,2026-08-04,79,True,Potentially Churned
+CUST00108,7,2026-08-04,79,True,Potentially Churned
+CUST01108,5,2026-08-04,79,True,Potentially Churned
+CUST01534,5,2026-08-04,79,True,Potentially Churned
+CUST01061,2,2026-08-04,79,True,Potentially Churned
+CUST00514,4,2026-08-04,79,True,Potentially Churned
+CUST00738,6,2026-08-04,79,True,Potentially Churned
+CUST01834,6,2026-08-05,78,True,Potentially Churned
+CUST01627,6,2026-08-05,78,True,Potentially Churned
+CUST00506,5,2026-08-05,78,True,Potentially Churned
+CUST00024,7,2026-08-05,78,True,Potentially Churned
+CUST02494,6,2026-08-05,78,True,Potentially Churned
+CUST02240,3,2026-08-05,78,True,Potentially Churned
+CUST00964,4,2026-08-05,78,True,Potentially Churned
+CUST02089,4,2026-08-05,78,True,Potentially Churned
+CUST01079,7,2026-08-05,78,True,Potentially Churned
+CUST00222,5,2026-08-05,78,True,Potentially Churned
+CUST01242,6,2026-08-05,78,True,Potentially Churned
+CUST00947,4,2026-08-05,78,True,Potentially Churned
+CUST00129,4,2026-08-05,78,True,Potentially Churned
+CUST00983,2,2026-08-05,78,True,Potentially Churned
+CUST01798,2,2026-08-05,78,True,Potentially Churned
+CUST00180,7,2026-08-06,77,True,Potentially Churned
+CUST00201,5,2026-08-06,77,True,Potentially Churned
+CUST01188,5,2026-08-06,77,True,Potentially Churned
+CUST01356,3,2026-08-06,77,True,Potentially Churned
+CUST01321,4,2026-08-06,77,True,Potentially Churned
+CUST02275,5,2026-08-06,77,True,Potentially Churned
+CUST01728,4,2026-08-06,77,True,Potentially Churned
+CUST00258,8,2026-08-06,77,True,Potentially Churned
+CUST01459,2,2026-08-06,77,True,Potentially Churned
+CUST00781,6,2026-08-06,77,True,Potentially Churned
+CUST00410,3,2026-08-06,77,True,Potentially Churned
+CUST02050,10,2026-08-07,76,True,Potentially Churned
+CUST00720,6,2026-08-07,76,True,Potentially Churned
+CUST01703,6,2026-08-07,76,True,Potentially Churned
+CUST02196,7,2026-08-07,76,True,Potentially Churned
+CUST02297,9,2026-08-07,76,True,Potentially Churned
+CUST02274,6,2026-08-07,76,True,Potentially Churned
+CUST00218,3,2026-08-07,76,True,Potentially Churned
+CUST00910,4,2026-08-07,76,True,Potentially Churned
+CUST01282,6,2026-08-07,76,True,Potentially Churned
+CUST01421,2,2026-08-07,76,True,Potentially Churned
+CUST00817,2,2026-08-07,76,True,Potentially Churned
+CUST00367,5,2026-08-08,75,True,Potentially Churned
+CUST01806,2,2026-08-08,75,True,Potentially Churned
+CUST02337,6,2026-08-08,75,True,Potentially Churned
+CUST01894,3,2026-08-08,75,True,Potentially Churned
+CUST02450,6,2026-08-08,75,True,Potentially Churned
+CUST01136,6,2026-08-08,75,True,Potentially Churned
+CUST00871,7,2026-08-08,75,True,Potentially Churned
+CUST00444,5,2026-08-08,75,True,Potentially Churned
+CUST00062,3,2026-08-08,75,True,Potentially Churned
+CUST00414,7,2026-08-09,74,True,Potentially Churned
+CUST00022,3,2026-08-09,74,True,Potentially Churned
+CUST01774,6,2026-08-09,74,True,Potentially Churned
+CUST01705,9,2026-08-09,74,True,Potentially Churned
+CUST00229,3,2026-08-09,74,True,Potentially Churned
+CUST02210,5,2026-08-09,74,True,Potentially Churned
+CUST00959,4,2026-08-09,74,True,Potentially Churned
+CUST02328,3,2026-08-09,74,True,Potentially Churned
+CUST00909,3,2026-08-09,74,True,Potentially Churned
+CUST00387,3,2026-08-09,74,True,Potentially Churned
+CUST00166,6,2026-08-09,74,True,Potentially Churned
+CUST00585,3,2026-08-09,74,True,Potentially Churned
+CUST00244,5,2026-08-10,73,True,Potentially Churned
+CUST02057,3,2026-08-10,73,True,Potentially Churned
+CUST01567,6,2026-08-10,73,True,Potentially Churned
+CUST00554,7,2026-08-10,73,True,Potentially Churned
+CUST00209,5,2026-08-10,73,True,Potentially Churned
+CUST00484,2,2026-08-10,73,True,Potentially Churned
+CUST02036,3,2026-08-10,73,True,Potentially Churned
+CUST00254,2,2026-08-10,73,True,Potentially Churned
+CUST00977,4,2026-08-10,73,True,Potentially Churned
+CUST02152,7,2026-08-11,72,True,Potentially Churned
+CUST02175,3,2026-08-11,72,True,Potentially Churned
+CUST00492,6,2026-08-11,72,True,Potentially Churned
+CUST00638,5,2026-08-11,72,True,Potentially Churned
+CUST02254,2,2026-08-11,72,True,Potentially Churned
+CUST00993,5,2026-08-11,72,True,Potentially Churned
+CUST00435,4,2026-08-11,72,True,Potentially Churned
+CUST02052,2,2026-08-11,72,True,Potentially Churned
+CUST00395,6,2026-08-11,72,True,Potentially Churned
+CUST01528,6,2026-08-11,72,True,Potentially Churned
+CUST00812,5,2026-08-11,72,True,Potentially Churned
+CUST01221,3,2026-08-11,72,True,Potentially Churned
+CUST01580,4,2026-08-11,72,True,Potentially Churned
+CUST00869,2,2026-08-11,72,True,Potentially Churned
+CUST02272,6,2026-08-12,71,True,Potentially Churned
+CUST01581,5,2026-08-12,71,True,Potentially Churned
+CUST01652,9,2026-08-12,71,True,Potentially Churned
+CUST00124,5,2026-08-12,71,True,Potentially Churned
+CUST02088,6,2026-08-12,71,True,Potentially Churned
+CUST00288,3,2026-08-12,71,True,Potentially Churned
+CUST00771,6,2026-08-12,71,True,Potentially Churned
+CUST00067,4,2026-08-12,71,True,Potentially Churned
+CUST00301,5,2026-08-12,71,True,Potentially Churned
+CUST00081,6,2026-08-12,71,True,Potentially Churned
+CUST01458,4,2026-08-12,71,True,Potentially Churned
+CUST00135,2,2026-08-12,71,True,Potentially Churned
+CUST01655,5,2026-08-12,71,True,Potentially Churned
+CUST01791,4,2026-08-12,71,True,Potentially Churned
+CUST02284,9,2026-08-13,70,True,Potentially Churned
+CUST01803,2,2026-08-13,70,True,Potentially Churned
+CUST00331,7,2026-08-13,70,True,Potentially Churned
+CUST01892,5,2026-08-13,70,True,Potentially Churned
+CUST01085,7,2026-08-13,70,True,Potentially Churned
+CUST02268,5,2026-08-13,70,True,Potentially Churned
+CUST02411,4,2026-08-13,70,True,Potentially Churned
+CUST01279,6,2026-08-13,70,True,Potentially Churned
+CUST01048,4,2026-08-13,70,True,Potentially Churned
+CUST01544,6,2026-08-13,70,True,Potentially Churned
+CUST00680,2,2026-08-13,70,True,Potentially Churned
+CUST01513,3,2026-08-13,70,True,Potentially Churned
+CUST01386,5,2026-08-14,69,True,Potentially Churned
+CUST00559,5,2026-08-14,69,True,Potentially Churned
+CUST01988,5,2026-08-14,69,True,Potentially Churned
+CUST00515,6,2026-08-14,69,True,Potentially Churned
+CUST00123,5,2026-08-14,69,True,Potentially Churned
+CUST00147,4,2026-08-14,69,True,Potentially Churned
+CUST01564,4,2026-08-14,69,True,Potentially Churned
+CUST01965,5,2026-08-14,69,True,Potentially Churned
+CUST00277,6,2026-08-14,69,True,Potentially Churned
+CUST02406,7,2026-08-14,69,True,Potentially Churned
+CUST00374,6,2026-08-14,69,True,Potentially Churned
+CUST01780,4,2026-08-14,69,True,Potentially Churned
+CUST01872,4,2026-08-14,69,True,Potentially Churned
+CUST00050,4,2026-08-14,69,True,Potentially Churned
+CUST00513,2,2026-08-14,69,True,Potentially Churned
+CUST01044,2,2026-08-14,69,True,Potentially Churned
+CUST02252,4,2026-08-15,68,True,Potentially Churned
+CUST02202,5,2026-08-15,68,True,Potentially Churned
+CUST00793,7,2026-08-15,68,True,Potentially Churned
+CUST00563,7,2026-08-15,68,True,Potentially Churned
+CUST00207,5,2026-08-15,68,True,Potentially Churned
+CUST00018,3,2026-08-15,68,True,Potentially Churned
+CUST00368,2,2026-08-15,68,True,Potentially Churned
+CUST01826,4,2026-08-15,68,True,Potentially Churned
+CUST02264,4,2026-08-15,68,True,Potentially Churned
+CUST01944,4,2026-08-15,68,True,Potentially Churned
+CUST01297,3,2026-08-15,68,True,Potentially Churned
+CUST00385,5,2026-08-15,68,True,Potentially Churned
+CUST01595,4,2026-08-15,68,True,Potentially Churned
+CUST00740,2,2026-08-15,68,True,Potentially Churned
+CUST01824,7,2026-08-16,67,True,Potentially Churned
+CUST02479,8,2026-08-16,67,True,Potentially Churned
+CUST01710,4,2026-08-16,67,True,Potentially Churned
+CUST00813,5,2026-08-16,67,True,Potentially Churned
+CUST01275,4,2026-08-16,67,True,Potentially Churned
+CUST01762,6,2026-08-16,67,True,Potentially Churned
+CUST01481,3,2026-08-16,67,True,Potentially Churned
+CUST01307,2,2026-08-16,67,True,Potentially Churned
+CUST01986,3,2026-08-16,67,True,Potentially Churned
+CUST01885,3,2026-08-16,67,True,Potentially Churned
+CUST00326,4,2026-08-16,67,True,Potentially Churned
+CUST00756,4,2026-08-17,66,True,Potentially Churned
+CUST00616,4,2026-08-17,66,True,Potentially Churned
+CUST01865,10,2026-08-17,66,True,Potentially Churned
+CUST01111,3,2026-08-17,66,True,Potentially Churned
+CUST01547,3,2026-08-17,66,True,Potentially Churned
+CUST00642,3,2026-08-17,66,True,Potentially Churned
+CUST01346,5,2026-08-17,66,True,Potentially Churned
+CUST01624,4,2026-08-17,66,True,Potentially Churned
+CUST00210,3,2026-08-17,66,True,Potentially Churned
+CUST02037,6,2026-08-17,66,True,Potentially Churned
+CUST00924,6,2026-08-18,65,True,Potentially Churned
+CUST01137,6,2026-08-18,65,True,Potentially Churned
+CUST01087,7,2026-08-18,65,True,Potentially Churned
+CUST00843,5,2026-08-18,65,True,Potentially Churned
+CUST01034,7,2026-08-18,65,True,Potentially Churned
+CUST01856,2,2026-08-18,65,True,Potentially Churned
+CUST00991,6,2026-08-18,65,True,Potentially Churned
+CUST01135,3,2026-08-18,65,True,Potentially Churned
+CUST00886,4,2026-08-18,65,True,Potentially Churned
+CUST00951,4,2026-08-18,65,True,Potentially Churned
+CUST00955,4,2026-08-18,65,True,Potentially Churned
+CUST00911,8,2026-08-18,65,True,Potentially Churned
+CUST00971,5,2026-08-18,65,True,Potentially Churned
+CUST02447,2,2026-08-18,65,True,Potentially Churned
+CUST01810,4,2026-08-18,65,True,Potentially Churned
+CUST00290,4,2026-08-18,65,True,Potentially Churned
+CUST01871,2,2026-08-18,65,True,Potentially Churned
+CUST01494,9,2026-08-19,64,True,Potentially Churned
+CUST01091,5,2026-08-19,64,True,Potentially Churned
+CUST00621,5,2026-08-19,64,True,Potentially Churned
+CUST00963,5,2026-08-19,64,True,Potentially Churned
+CUST02046,5,2026-08-19,64,True,Potentially Churned
+CUST02308,7,2026-08-19,64,True,Potentially Churned
+CUST02329,10,2026-08-19,64,True,Potentially Churned
+CUST00694,4,2026-08-19,64,True,Potentially Churned
+CUST01484,6,2026-08-19,64,True,Potentially Churned
+CUST01289,3,2026-08-19,64,True,Potentially Churned
+CUST00606,3,2026-08-19,64,True,Potentially Churned
+CUST01518,4,2026-08-19,64,True,Potentially Churned
+CUST02171,6,2026-08-19,64,True,Potentially Churned
+CUST01531,6,2026-08-19,64,True,Potentially Churned
+CUST01072,3,2026-08-19,64,True,Potentially Churned
+CUST00035,4,2026-08-19,64,True,Potentially Churned
+CUST01325,5,2026-08-19,64,True,Potentially Churned
+CUST02443,3,2026-08-19,64,True,Potentially Churned
+CUST02160,4,2026-08-20,63,True,Potentially Churned
+CUST00610,5,2026-08-20,63,True,Potentially Churned
+CUST00927,6,2026-08-20,63,True,Potentially Churned
+CUST01190,8,2026-08-20,63,True,Potentially Churned
+CUST00063,7,2026-08-20,63,True,Potentially Churned
+CUST02086,4,2026-08-20,63,True,Potentially Churned
+CUST01619,2,2026-08-20,63,True,Potentially Churned
+CUST01558,4,2026-08-20,63,True,Potentially Churned
+CUST01587,4,2026-08-20,63,True,Potentially Churned
+CUST00007,4,2026-08-20,63,True,Potentially Churned
+CUST00380,5,2026-08-20,63,True,Potentially Churned
+CUST01961,5,2026-08-20,63,True,Potentially Churned
+CUST00518,3,2026-08-20,63,True,Potentially Churned
+CUST01204,5,2026-08-20,63,True,Potentially Churned
+CUST02492,5,2026-08-21,62,True,Potentially Churned
+CUST02394,4,2026-08-21,62,True,Potentially Churned
+CUST02255,4,2026-08-21,62,True,Potentially Churned
+CUST00291,3,2026-08-21,62,True,Potentially Churned
+CUST01952,6,2026-08-21,62,True,Potentially Churned
+CUST00445,6,2026-08-21,62,True,Potentially Churned
+CUST00378,6,2026-08-21,62,True,Potentially Churned
+CUST00948,8,2026-08-21,62,True,Potentially Churned
+CUST01512,4,2026-08-21,62,True,Potentially Churned
+CUST01488,3,2026-08-21,62,True,Potentially Churned
+CUST01033,3,2026-08-21,62,True,Potentially Churned
+CUST01964,4,2026-08-21,62,True,Potentially Churned
+CUST01078,3,2026-08-21,62,True,Potentially Churned
+CUST01067,4,2026-08-21,62,True,Potentially Churned
+CUST02321,4,2026-08-21,62,True,Potentially Churned
+CUST02417,5,2026-08-21,62,True,Potentially Churned
+CUST00944,3,2026-08-21,62,True,Potentially Churned
+CUST00675,2,2026-08-21,62,True,Potentially Churned
+CUST00406,4,2026-08-22,61,True,Potentially Churned
+CUST00097,6,2026-08-22,61,True,Potentially Churned
+CUST00612,8,2026-08-22,61,True,Potentially Churned
+CUST00524,3,2026-08-22,61,True,Potentially Churned
+CUST00069,3,2026-08-22,61,True,Potentially Churned
+CUST01259,3,2026-08-22,61,True,Potentially Churned
+CUST01911,6,2026-08-22,61,True,Potentially Churned
+CUST00663,9,2026-08-22,61,True,Potentially Churned
+CUST02361,3,2026-08-22,61,True,Potentially Churned
+CUST00929,6,2026-08-22,61,True,Potentially Churned
+CUST00775,4,2026-08-22,61,True,Potentially Churned
+CUST02109,3,2026-08-22,61,True,Potentially Churned
+CUST01410,2,2026-08-22,61,True,Potentially Churned
+CUST01391,2,2026-08-22,61,True,Potentially Churned
+CUST01907,5,2026-08-23,60,True,Potentially Churned
+CUST01305,6,2026-08-23,60,True,Potentially Churned
+CUST00485,3,2026-08-23,60,True,Potentially Churned
+CUST00263,3,2026-08-23,60,True,Potentially Churned
+CUST00096,5,2026-08-23,60,True,Potentially Churned
+CUST01529,6,2026-08-23,60,True,Potentially Churned
+CUST01671,5,2026-08-23,60,True,Potentially Churned
+CUST01598,4,2026-08-23,60,True,Potentially Churned
+CUST01893,4,2026-08-23,60,True,Potentially Churned
+CUST00079,6,2026-08-23,60,True,Potentially Churned
+CUST01476,6,2026-08-24,59,True,Potentially Churned
+CUST00330,7,2026-08-24,59,True,Potentially Churned
+CUST00449,6,2026-08-24,59,True,Potentially Churned
+CUST00712,10,2026-08-24,59,True,Potentially Churned
+CUST00223,4,2026-08-24,59,True,Potentially Churned
+CUST02143,3,2026-08-24,59,True,Potentially Churned
+CUST02469,2,2026-08-24,59,True,Potentially Churned
+CUST02059,4,2026-08-24,59,True,Potentially Churned
+CUST00938,4,2026-08-24,59,True,Potentially Churned
+CUST02474,2,2026-08-24,59,True,Potentially Churned
+CUST00276,3,2026-08-24,59,True,Potentially Churned
+CUST00008,6,2026-08-25,58,True,Potentially Churned
+CUST01983,5,2026-08-25,58,True,Potentially Churned
+CUST01822,6,2026-08-25,58,True,Potentially Churned
+CUST01606,4,2026-08-25,58,True,Potentially Churned
+CUST00043,4,2026-08-25,58,True,Potentially Churned
+CUST01573,7,2026-08-25,58,True,Potentially Churned
+CUST01149,3,2026-08-25,58,True,Potentially Churned
+CUST01440,7,2026-08-25,58,True,Potentially Churned
+CUST00048,2,2026-08-25,58,True,Potentially Churned
+CUST02319,7,2026-08-25,58,True,Potentially Churned
+CUST00549,5,2026-08-25,58,True,Potentially Churned
+CUST01156,4,2026-08-25,58,True,Potentially Churned
+CUST00021,2,2026-08-25,58,True,Potentially Churned
+CUST00088,6,2026-08-26,57,True,Potentially Churned
+CUST00988,6,2026-08-26,57,True,Potentially Churned
+CUST01167,6,2026-08-26,57,True,Potentially Churned
+CUST02251,3,2026-08-26,57,True,Potentially Churned
+CUST01407,5,2026-08-26,57,True,Potentially Churned
+CUST01590,5,2026-08-26,57,True,Potentially Churned
+CUST01905,4,2026-08-26,57,True,Potentially Churned
+CUST01510,4,2026-08-26,57,True,Potentially Churned
+CUST02372,4,2026-08-26,57,True,Potentially Churned
+CUST01597,5,2026-08-26,57,True,Potentially Churned
+CUST00044,3,2026-08-26,57,True,Potentially Churned
+CUST00172,6,2026-08-26,57,True,Potentially Churned
+CUST01132,7,2026-08-26,57,True,Potentially Churned
+CUST01375,5,2026-08-26,57,True,Potentially Churned
+CUST00676,2,2026-08-26,57,True,Potentially Churned
+CUST00691,4,2026-08-27,56,True,Potentially Churned
+CUST01030,9,2026-08-27,56,True,Potentially Churned
+CUST01039,5,2026-08-27,56,True,Potentially Churned
+CUST00423,3,2026-08-27,56,True,Potentially Churned
+CUST02132,4,2026-08-27,56,True,Potentially Churned
+CUST01251,5,2026-08-27,56,True,Potentially Churned
+CUST02188,8,2026-08-27,56,True,Potentially Churned
+CUST00245,2,2026-08-27,56,True,Potentially Churned
+CUST00701,5,2026-08-27,56,True,Potentially Churned
+CUST00109,3,2026-08-27,56,True,Potentially Churned
+CUST01394,3,2026-08-27,56,True,Potentially Churned
+CUST01248,4,2026-08-27,56,True,Potentially Churned
+CUST01076,3,2026-08-27,56,True,Potentially Churned
+CUST00270,4,2026-08-27,56,True,Potentially Churned
+CUST00933,2,2026-08-27,56,True,Potentially Churned
+CUST02325,7,2026-08-28,55,True,Potentially Churned
+CUST00930,3,2026-08-28,55,True,Potentially Churned
+CUST01589,8,2026-08-28,55,True,Potentially Churned
+CUST01538,6,2026-08-28,55,True,Potentially Churned
+CUST00880,3,2026-08-28,55,True,Potentially Churned
+CUST01358,7,2026-08-28,55,True,Potentially Churned
+CUST00151,3,2026-08-28,55,True,Potentially Churned
+CUST00744,5,2026-08-28,55,True,Potentially Churned
+CUST01666,5,2026-08-28,55,True,Potentially Churned
+CUST00409,6,2026-08-28,55,True,Potentially Churned
+CUST00023,3,2026-08-28,55,True,Potentially Churned
+CUST02085,3,2026-08-28,55,True,Potentially Churned
+CUST00006,3,2026-08-28,55,True,Potentially Churned
+CUST02074,5,2026-08-28,55,True,Potentially Churned
+CUST01507,8,2026-08-29,54,True,Potentially Churned
+CUST00942,9,2026-08-29,54,True,Potentially Churned
+CUST00393,4,2026-08-29,54,True,Potentially Churned
+CUST00538,5,2026-08-29,54,True,Potentially Churned
+CUST01495,4,2026-08-29,54,True,Potentially Churned
+CUST02413,3,2026-08-29,54,True,Potentially Churned
+CUST01101,5,2026-08-29,54,True,Potentially Churned
+CUST01142,4,2026-08-29,54,True,Potentially Churned
+CUST01295,9,2026-08-29,54,True,Potentially Churned
+CUST02342,4,2026-08-29,54,True,Potentially Churned
+CUST00329,3,2026-08-29,54,True,Potentially Churned
+CUST02414,2,2026-08-29,54,True,Potentially Churned
+CUST02437,5,2026-08-29,54,True,Potentially Churned
+CUST01150,2,2026-08-29,54,True,Potentially Churned
+CUST02258,3,2026-08-29,54,True,Potentially Churned
+CUST01014,2,2026-08-30,53,True,Potentially Churned
+CUST02388,4,2026-08-30,53,True,Potentially Churned
+CUST00969,5,2026-08-30,53,True,Potentially Churned
+CUST01099,7,2026-08-30,53,True,Potentially Churned
+CUST02354,6,2026-08-30,53,True,Potentially Churned
+CUST00252,4,2026-08-30,53,True,Potentially Churned
+CUST00360,4,2026-08-30,53,True,Potentially Churned
+CUST00652,3,2026-08-30,53,True,Potentially Churned
+CUST01272,3,2026-08-30,53,True,Potentially Churned
+CUST01668,6,2026-08-30,53,True,Potentially Churned
+CUST00651,3,2026-08-30,53,True,Potentially Churned
+CUST01241,4,2026-08-30,53,True,Potentially Churned
+CUST00073,2,2026-08-30,53,True,Potentially Churned
+CUST01661,2,2026-08-31,52,True,Potentially Churned
+CUST02043,5,2026-08-31,52,True,Potentially Churned
+CUST01179,4,2026-08-31,52,True,Potentially Churned
+CUST00630,5,2026-08-31,52,True,Potentially Churned
+CUST01021,2,2026-08-31,52,True,Potentially Churned
+CUST01227,4,2026-08-31,52,True,Potentially Churned
+CUST01175,5,2026-08-31,52,True,Potentially Churned
+CUST02026,4,2026-08-31,52,True,Potentially Churned
+CUST02022,2,2026-08-31,52,True,Potentially Churned
+CUST01070,4,2026-08-31,52,True,Potentially Churned
+CUST02243,4,2026-08-31,52,True,Potentially Churned
+CUST01382,3,2026-08-31,52,True,Potentially Churned
+CUST01157,4,2026-08-31,52,True,Potentially Churned
+CUST02324,5,2026-09-01,51,True,Potentially Churned
+CUST01931,7,2026-09-01,51,True,Potentially Churned
+CUST00592,8,2026-09-01,51,True,Potentially Churned
+CUST00322,4,2026-09-01,51,True,Potentially Churned
+CUST00846,6,2026-09-01,51,True,Potentially Churned
+CUST00377,5,2026-09-01,51,True,Potentially Churned
+CUST01953,2,2026-09-01,51,True,Potentially Churned
+CUST01924,6,2026-09-01,51,True,Potentially Churned
+CUST01812,3,2026-09-01,51,True,Potentially Churned
+CUST02115,5,2026-09-01,51,True,Potentially Churned
+CUST01264,5,2026-09-01,51,True,Potentially Churned
+CUST02431,3,2026-09-01,51,True,Potentially Churned
+CUST01727,7,2026-09-01,51,True,Potentially Churned
+CUST01082,4,2026-09-01,51,True,Potentially Churned
+CUST00041,4,2026-09-02,50,True,Potentially Churned
+CUST00016,6,2026-09-02,50,True,Potentially Churned
+CUST01449,3,2026-09-02,50,True,Potentially Churned
+CUST01604,3,2026-09-02,50,True,Potentially Churned
+CUST00839,4,2026-09-02,50,True,Potentially Churned
+CUST02071,5,2026-09-02,50,True,Potentially Churned
+CUST00083,4,2026-09-02,50,True,Potentially Churned
+CUST00002,3,2026-09-02,50,True,Potentially Churned
+CUST01469,6,2026-09-02,50,True,Potentially Churned
+CUST00236,7,2026-09-02,50,True,Potentially Churned
+CUST00894,5,2026-09-02,50,True,Potentially Churned
+CUST02033,6,2026-09-02,50,True,Potentially Churned
+CUST02480,5,2026-09-02,50,True,Potentially Churned
+CUST00709,9,2026-09-02,50,True,Potentially Churned
+CUST00262,8,2026-09-03,49,True,Potentially Churned
+CUST00736,5,2026-09-03,49,True,Potentially Churned
+CUST01551,8,2026-09-03,49,True,Potentially Churned
+CUST01742,5,2026-09-03,49,True,Potentially Churned
+CUST00626,4,2026-09-03,49,True,Potentially Churned
+CUST00741,9,2026-09-03,49,True,Potentially Churned
+CUST01814,2,2026-09-03,49,True,Potentially Churned
+CUST00228,4,2026-09-03,49,True,Potentially Churned
+CUST01201,3,2026-09-03,49,True,Potentially Churned
+CUST00867,6,2026-09-03,49,True,Potentially Churned
+CUST01739,3,2026-09-03,49,True,Potentially Churned
+CUST01849,4,2026-09-03,49,True,Potentially Churned
+CUST00784,3,2026-09-03,49,True,Potentially Churned
+CUST01945,2,2026-09-03,49,True,Potentially Churned
+CUST00389,6,2026-09-04,48,True,Potentially Churned
+CUST01809,9,2026-09-04,48,True,Potentially Churned
+CUST02257,8,2026-09-04,48,True,Potentially Churned
+CUST01989,5,2026-09-04,48,True,Potentially Churned
+CUST01140,6,2026-09-04,48,True,Potentially Churned
+CUST00420,5,2026-09-04,48,True,Potentially Churned
+CUST02313,6,2026-09-04,48,True,Potentially Churned
+CUST00615,6,2026-09-04,48,True,Potentially Churned
+CUST00176,7,2026-09-04,48,True,Potentially Churned
+CUST02327,3,2026-09-04,48,True,Potentially Churned
+CUST01228,4,2026-09-04,48,True,Potentially Churned
+CUST01096,4,2026-09-04,48,True,Potentially Churned
+CUST01788,4,2026-09-04,48,True,Potentially Churned
+CUST00803,5,2026-09-04,48,True,Potentially Churned
+CUST00768,5,2026-09-04,48,True,Potentially Churned
+CUST02058,6,2026-09-04,48,True,Potentially Churned
+CUST01354,2,2026-09-04,48,True,Potentially Churned
+CUST01363,7,2026-09-05,47,True,Potentially Churned
+CUST01844,6,2026-09-05,47,True,Potentially Churned
+CUST01968,5,2026-09-05,47,True,Potentially Churned
+CUST00077,6,2026-09-05,47,True,Potentially Churned
+CUST02095,4,2026-09-05,47,True,Potentially Churned
+CUST01110,6,2026-09-05,47,True,Potentially Churned
+CUST02349,7,2026-09-05,47,True,Potentially Churned
+CUST00553,2,2026-09-05,47,True,Potentially Churned
+CUST00461,4,2026-09-05,47,True,Potentially Churned
+CUST00870,4,2026-09-05,47,True,Potentially Churned
+CUST00058,3,2026-09-05,47,True,Potentially Churned
+CUST00732,3,2026-09-05,47,True,Potentially Churned
+CUST01643,4,2026-09-05,47,True,Potentially Churned
+CUST00906,3,2026-09-05,47,True,Potentially Churned
+CUST01373,6,2026-09-05,47,True,Potentially Churned
+CUST01736,4,2026-09-06,46,True,Potentially Churned
+CUST00602,7,2026-09-06,46,True,Potentially Churned
+CUST01172,10,2026-09-06,46,True,Potentially Churned
+CUST00724,5,2026-09-06,46,True,Potentially Churned
+CUST02138,3,2026-09-06,46,True,Potentially Churned
+CUST02487,4,2026-09-06,46,True,Potentially Churned
+CUST02130,8,2026-09-06,46,True,Potentially Churned
+CUST02384,6,2026-09-06,46,True,Potentially Churned
+CUST01128,11,2026-09-06,46,True,Potentially Churned
+CUST02166,6,2026-09-06,46,True,Potentially Churned
+CUST02001,5,2026-09-06,46,True,Potentially Churned
+CUST00418,2,2026-09-06,46,True,Potentially Churned
+CUST01436,4,2026-09-06,46,True,Potentially Churned
+CUST01002,4,2026-09-06,46,True,Potentially Churned
+CUST01539,4,2026-09-06,46,True,Potentially Churned
+CUST01726,5,2026-09-06,46,True,Potentially Churned
+CUST00261,5,2026-09-06,46,True,Potentially Churned
+CUST00751,3,2026-09-06,46,True,Potentially Churned
+CUST01236,4,2026-09-07,45,True,Potentially Churned
+CUST00796,6,2026-09-07,45,True,Potentially Churned
+CUST02213,4,2026-09-07,45,True,Potentially Churned
+CUST01783,5,2026-09-07,45,True,Potentially Churned
+CUST02434,5,2026-09-07,45,True,Potentially Churned
+CUST00562,6,2026-09-07,45,True,Potentially Churned
+CUST01238,4,2026-09-07,45,True,Potentially Churned
+CUST00952,4,2026-09-07,45,True,Potentially Churned
+CUST01767,5,2026-09-07,45,True,Potentially Churned
+CUST01553,6,2026-09-07,45,True,Potentially Churned
+CUST01042,6,2026-09-07,45,True,Potentially Churned
+CUST00136,5,2026-09-07,45,True,Potentially Churned
+CUST00808,3,2026-09-07,45,True,Potentially Churned
+CUST00702,10,2026-09-07,45,True,Potentially Churned
+CUST00995,2,2026-09-07,45,True,Potentially Churned
+CUST02458,5,2026-09-07,45,True,Potentially Churned
+CUST00925,5,2026-09-07,45,True,Potentially Churned
+CUST02280,6,2026-09-07,45,True,Potentially Churned
+CUST01398,2,2026-09-07,45,True,Potentially Churned
+CUST00327,1,2026-01-15,280,False,Insufficient Order History
+CUST02355,1,2026-01-17,278,False,Insufficient Order History
+CUST00956,1,2026-01-18,277,False,Insufficient Order History
+CUST01664,1,2026-01-20,275,False,Insufficient Order History
+CUST01205,1,2026-01-21,274,False,Insufficient Order History
+CUST01533,1,2026-01-21,274,False,Insufficient Order History
+CUST00181,1,2026-01-22,273,False,Insufficient Order History
+CUST01464,1,2026-01-23,272,False,Insufficient Order History
+CUST01560,1,2026-01-29,266,False,Insufficient Order History
+CUST00891,1,2026-01-29,266,False,Insufficient Order History
+CUST01143,1,2026-01-31,264,False,Insufficient Order History
+CUST02276,1,2026-02-05,259,False,Insufficient Order History
+CUST01523,1,2026-02-05,259,False,Insufficient Order History
+CUST02200,1,2026-02-05,259,False,Insufficient Order History
+CUST00698,1,2026-02-05,259,False,Insufficient Order History
+CUST02485,1,2026-02-06,258,False,Insufficient Order History
+CUST01740,1,2026-02-08,256,False,Insufficient Order History
+CUST01017,1,2026-02-11,253,False,Insufficient Order History
+CUST00054,1,2026-02-11,253,False,Insufficient Order History
+CUST00494,1,2026-02-15,249,False,Insufficient Order History
+CUST01213,1,2026-02-16,248,False,Insufficient Order History
+CUST02063,1,2026-02-18,246,False,Insufficient Order History
+CUST00885,1,2026-02-18,246,False,Insufficient Order History
+CUST01360,1,2026-02-21,243,False,Insufficient Order History
+CUST01556,1,2026-02-21,243,False,Insufficient Order History
+CUST02176,1,2026-03-01,235,False,Insufficient Order History
+CUST01667,1,2026-03-01,235,False,Insufficient Order History
+CUST01326,1,2026-03-03,233,False,Insufficient Order History
+CUST00516,1,2026-03-05,231,False,Insufficient Order History
+CUST00901,1,2026-03-07,229,False,Insufficient Order History
+CUST01797,1,2026-03-08,228,False,Insufficient Order History
+CUST00158,1,2026-03-08,228,False,Insufficient Order History
+CUST00001,1,2026-03-10,226,False,Insufficient Order History
+CUST01693,1,2026-03-12,224,False,Insufficient Order History
+CUST01433,1,2026-03-15,221,False,Insufficient Order History
+CUST01904,1,2026-03-17,219,False,Insufficient Order History
+CUST01743,1,2026-03-21,215,False,Insufficient Order History
+CUST00852,1,2026-03-25,211,False,Insufficient Order History
+CUST02262,1,2026-03-26,210,False,Insufficient Order History
+CUST02445,1,2026-03-27,209,False,Insufficient Order History
+CUST00074,1,2026-04-07,198,False,Insufficient Order History
+CUST00526,1,2026-04-08,197,False,Insufficient Order History
+CUST00235,1,2026-04-08,197,False,Insufficient Order History
+CUST02336,1,2026-04-11,194,False,Insufficient Order History
+CUST00832,1,2026-04-14,191,False,Insufficient Order History
+CUST01102,1,2026-04-23,182,False,Insufficient Order History
+CUST01861,1,2026-04-28,177,False,Insufficient Order History
+CUST01480,1,2026-04-30,175,False,Insufficient Order History
+CUST00317,1,2026-05-05,170,False,Insufficient Order History
+CUST00490,1,2026-05-06,169,False,Insufficient Order History
+CUST01540,1,2026-05-14,161,False,Insufficient Order History
+CUST01636,1,2026-05-14,161,False,Insufficient Order History
+CUST02235,1,2026-05-15,160,False,Insufficient Order History
+CUST02165,1,2026-05-15,160,False,Insufficient Order History
+CUST02216,1,2026-05-16,159,False,Insufficient Order History
+CUST01939,1,2026-05-17,158,False,Insufficient Order History
+CUST01921,1,2026-05-19,156,False,Insufficient Order History
+CUST02156,1,2026-05-20,155,False,Insufficient Order History
+CUST01263,1,2026-05-27,148,False,Insufficient Order History
+CUST02177,1,2026-05-28,147,False,Insufficient Order History
+CUST02214,1,2026-05-28,147,False,Insufficient Order History
+CUST00491,1,2026-05-29,146,False,Insufficient Order History
+CUST00558,1,2026-06-01,143,False,Insufficient Order History
+CUST00468,1,2026-06-01,143,False,Insufficient Order History
+CUST00546,1,2026-06-03,141,False,Insufficient Order History
+CUST01212,1,2026-06-07,137,False,Insufficient Order History
+CUST01975,1,2026-06-09,135,False,Insufficient Order History
+CUST02184,1,2026-06-15,129,False,Insufficient Order History
+CUST02271,1,2026-06-15,129,False,Insufficient Order History
+CUST00544,1,2026-06-16,128,False,Insufficient Order History
+CUST00206,1,2026-06-16,128,False,Insufficient Order History
+CUST00965,1,2026-06-17,127,False,Insufficient Order History
+CUST01126,1,2026-06-19,125,False,Insufficient Order History
+CUST01470,1,2026-06-20,124,False,Insufficient Order History
+CUST00584,1,2026-06-23,121,False,Insufficient Order History
+CUST01839,1,2026-06-25,119,False,Insufficient Order History
+CUST02423,1,2026-06-26,118,False,Insufficient Order History
+CUST00417,1,2026-06-30,114,False,Insufficient Order History
+CUST02104,1,2026-07-04,110,False,Insufficient Order History
+CUST00279,1,2026-07-05,109,False,Insufficient Order History
+CUST01941,1,2026-07-07,107,False,Insufficient Order History
+CUST02027,1,2026-07-10,104,False,Insufficient Order History
+CUST01353,1,2026-07-14,100,False,Insufficient Order History
+CUST02010,1,2026-07-16,98,False,Insufficient Order History
+CUST02133,1,2026-07-24,90,False,Insufficient Order History
+CUST00946,1,2026-07-26,88,False,Insufficient Order History
+CUST00752,1,2026-07-27,87,False,Insufficient Order History
+CUST01442,1,2026-08-02,81,False,Insufficient Order History
+CUST02444,1,2026-08-05,78,False,Insufficient Order History
+CUST00142,1,2026-08-09,74,False,Insufficient Order History
+CUST00899,1,2026-08-10,73,False,Insufficient Order History
+CUST00200,1,2026-08-14,69,False,Insufficient Order History
+CUST00667,1,2026-08-15,68,False,Insufficient Order History
+CUST01790,1,2026-08-17,66,False,Insufficient Order History
+CUST00660,1,2026-08-19,64,False,Insufficient Order History
+CUST02358,1,2026-08-20,63,False,Insufficient Order History
+CUST02014,1,2026-08-21,62,False,Insufficient Order History
+CUST02415,1,2026-08-27,56,False,Insufficient Order History
+CUST01219,1,2026-08-31,52,False,Insufficient Order History
+CUST02009,1,2026-09-04,48,False,Insufficient Order History
+CUST00454,6,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00525,5,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00981,5,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00985,3,2026-09-08,44,False,Active / Not Yet Qualified
+CUST02330,9,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01841,5,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00470,8,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00976,4,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00706,2,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01793,8,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00257,4,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01707,7,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01501,3,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00572,4,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00916,7,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01364,4,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00094,7,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00790,5,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00422,4,2026-09-08,44,False,Active / Not Yet Qualified
+CUST00628,3,2026-09-08,44,False,Active / Not Yet Qualified
+CUST01211,1,2026-09-08,44,False,Insufficient Order History
+CUST01549,1,2026-09-08,44,False,Insufficient Order History
+CUST02283,1,2026-09-08,44,False,Insufficient Order History
+CUST01444,4,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00997,8,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01107,7,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01799,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01288,6,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02462,8,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01452,6,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00888,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01195,6,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01555,8,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02344,3,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02404,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02256,4,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01689,2,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02416,2,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02304,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01148,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST01887,6,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00607,7,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00153,5,2026-09-09,43,False,Active / Not Yet Qualified
+CUST02060,1,2026-09-09,43,False,Insufficient Order History
+CUST00313,2,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00121,2,2026-09-09,43,False,Active / Not Yet Qualified
+CUST00536,5,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00357,6,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01186,8,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01818,8,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00801,5,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00430,3,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00045,7,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01192,4,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00551,5,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01662,4,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01037,5,2026-09-10,42,False,Active / Not Yet Qualified
+CUST02006,4,2026-09-10,42,False,Active / Not Yet Qualified
+CUST02465,5,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01884,7,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01771,4,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00089,3,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00466,2,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01622,7,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01482,2,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00877,3,2026-09-10,42,False,Active / Not Yet Qualified
+CUST00162,2,2026-09-10,42,False,Active / Not Yet Qualified
+CUST02134,3,2026-09-10,42,False,Active / Not Yet Qualified
+CUST01026,7,2026-09-11,41,False,Active / Not Yet Qualified
+CUST00527,5,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01230,4,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01141,4,2026-09-11,41,False,Active / Not Yet Qualified
+CUST00498,3,2026-09-11,41,False,Active / Not Yet Qualified
+CUST00565,7,2026-09-11,41,False,Active / Not Yet Qualified
+CUST00917,8,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01055,6,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01947,2,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01977,4,2026-09-11,41,False,Active / Not Yet Qualified
+CUST01704,5,2026-09-11,41,False,Active / Not Yet Qualified
+CUST02426,4,2026-09-11,41,False,Active / Not Yet Qualified
+CUST02418,6,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02067,9,2026-09-12,40,False,Active / Not Yet Qualified
+CUST01940,6,2026-09-12,40,False,Active / Not Yet Qualified
+CUST01180,9,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02459,4,2026-09-12,40,False,Active / Not Yet Qualified
+CUST00477,6,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02062,6,2026-09-12,40,False,Active / Not Yet Qualified
+CUST01130,4,2026-09-12,40,False,Active / Not Yet Qualified
+CUST00688,9,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02463,5,2026-09-12,40,False,Active / Not Yet Qualified
+CUST00260,2,2026-09-12,40,False,Active / Not Yet Qualified
+CUST00902,4,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02068,3,2026-09-12,40,False,Active / Not Yet Qualified
+CUST00531,3,2026-09-12,40,False,Active / Not Yet Qualified
+CUST02348,3,2026-09-12,40,False,Active / Not Yet Qualified
+CUST01437,5,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00493,8,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01750,9,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00973,4,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01883,10,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01857,6,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00064,4,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00169,7,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01005,5,2026-09-13,39,False,Active / Not Yet Qualified
+CUST02421,5,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01843,5,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01714,6,2026-09-13,39,False,Active / Not Yet Qualified
+CUST02395,2,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00283,2,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01027,3,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00673,4,2026-09-13,39,False,Active / Not Yet Qualified
+CUST00992,3,2026-09-13,39,False,Active / Not Yet Qualified
+CUST01176,5,2026-09-14,38,False,Active / Not Yet Qualified
+CUST02346,6,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01648,7,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01182,8,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01712,7,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01511,5,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01725,2,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01337,4,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00119,7,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00284,6,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01298,9,2026-09-14,38,False,Active / Not Yet Qualified
+CUST02018,6,2026-09-14,38,False,Active / Not Yet Qualified
+CUST02004,6,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01895,2,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01193,4,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00039,5,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00111,7,2026-09-14,38,False,Active / Not Yet Qualified
+CUST02201,2,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01024,4,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01214,2,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00475,3,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01881,3,2026-09-14,38,False,Active / Not Yet Qualified
+CUST00025,1,2026-09-14,38,False,Insufficient Order History
+CUST00204,3,2026-09-14,38,False,Active / Not Yet Qualified
+CUST01914,4,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00285,4,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00407,5,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00085,5,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00148,6,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00837,4,2026-09-15,37,False,Active / Not Yet Qualified
+CUST02020,6,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00161,7,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01718,4,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01010,3,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00335,5,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01371,9,2026-09-15,37,False,Active / Not Yet Qualified
+CUST02117,4,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00590,5,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00760,2,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01430,2,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01400,3,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00005,5,2026-09-15,37,False,Active / Not Yet Qualified
+CUST02359,2,2026-09-15,37,False,Active / Not Yet Qualified
+CUST02335,3,2026-09-15,37,False,Active / Not Yet Qualified
+CUST02488,6,2026-09-15,37,False,Active / Not Yet Qualified
+CUST01899,3,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00268,2,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00731,6,2026-09-15,37,False,Active / Not Yet Qualified
+CUST00845,1,2026-09-15,37,False,Insufficient Order History
+CUST00825,6,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00345,5,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00004,4,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00703,4,2026-09-16,36,False,Active / Not Yet Qualified
+CUST01603,5,2026-09-16,36,False,Active / Not Yet Qualified
+CUST01058,9,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00269,7,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00416,3,2026-09-16,36,False,Active / Not Yet Qualified
+CUST01994,5,2026-09-16,36,False,Active / Not Yet Qualified
+CUST02466,4,2026-09-16,36,False,Active / Not Yet Qualified
+CUST00962,5,2026-09-16,36,False,Active / Not Yet Qualified
+CUST02113,3,2026-09-16,36,False,Active / Not Yet Qualified
+CUST01901,7,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00629,3,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00940,2,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02246,6,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01292,7,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01637,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02181,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02007,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02180,4,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01984,4,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01546,4,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00055,7,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01928,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00753,3,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00030,2,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01453,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00708,6,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00266,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00657,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02226,5,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02207,2,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00066,6,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01260,2,2026-09-17,35,False,Active / Not Yet Qualified
+CUST00076,7,2026-09-17,35,False,Active / Not Yet Qualified
+CUST02376,4,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01608,3,2026-09-17,35,False,Active / Not Yet Qualified
+CUST01223,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01987,3,2026-09-18,34,False,Active / Not Yet Qualified
+CUST02425,7,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00106,6,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01802,2,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01779,6,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00804,7,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00883,4,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01043,4,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00851,7,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00455,3,2026-09-18,34,False,Active / Not Yet Qualified
+CUST02168,6,2026-09-18,34,False,Active / Not Yet Qualified
+CUST02265,3,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00170,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01778,4,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01601,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01051,6,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00830,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01942,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00779,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST02433,2,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01744,5,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00898,2,2026-09-18,34,False,Active / Not Yet Qualified
+CUST01651,3,2026-09-18,34,False,Active / Not Yet Qualified
+CUST00264,8,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01123,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02197,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00042,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00707,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00013,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00603,5,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00507,8,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01792,7,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01830,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02161,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00697,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02307,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00717,9,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01384,5,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01025,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01105,4,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00415,8,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00392,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01365,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02451,8,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00061,2,2026-09-19,33,False,Active / Not Yet Qualified
+CUST00868,5,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02498,7,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02294,3,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01920,6,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01012,3,2026-09-19,33,False,Active / Not Yet Qualified
+CUST02435,3,2026-09-19,33,False,Active / Not Yet Qualified
+CUST01301,6,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01554,3,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01811,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02401,4,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01998,7,2026-09-20,32,False,Active / Not Yet Qualified
+CUST00725,10,2026-09-20,32,False,Active / Not Yet Qualified
+CUST00486,4,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01701,7,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01316,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01080,2,2026-09-20,32,False,Active / Not Yet Qualified
+CUST00857,10,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02419,6,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01184,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01978,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST00710,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01561,2,2026-09-20,32,False,Active / Not Yet Qualified
+CUST00705,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02285,4,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02446,5,2026-09-20,32,False,Active / Not Yet Qualified
+CUST01278,2,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02044,4,2026-09-20,32,False,Active / Not Yet Qualified
+CUST02481,5,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02005,3,2026-09-21,31,False,Active / Not Yet Qualified
+CUST00091,8,2026-09-21,31,False,Active / Not Yet Qualified
+CUST00165,4,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01309,6,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01628,6,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02347,10,2026-09-21,31,False,Active / Not Yet Qualified
+CUST00196,4,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01985,8,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02140,6,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01171,7,2026-09-21,31,False,Active / Not Yet Qualified
+CUST00670,3,2026-09-21,31,False,Active / Not Yet Qualified
+CUST00556,4,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01754,3,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02491,7,2026-09-21,31,False,Active / Not Yet Qualified
+CUST01801,3,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02441,5,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02078,2,2026-09-21,31,False,Active / Not Yet Qualified
+CUST02167,1,2026-09-21,31,False,Insufficient Order History
+CUST00918,1,2026-09-21,31,False,Insufficient Order History
+CUST01189,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02448,6,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02145,3,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02232,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00571,6,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01542,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00627,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02106,6,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01805,6,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00593,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00831,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00426,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01335,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02065,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00299,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00341,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01113,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00396,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01815,7,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02075,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01835,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00696,9,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00769,6,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02340,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00400,4,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00799,3,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01486,5,2026-09-22,30,False,Active / Not Yet Qualified
+CUST02263,3,2026-09-22,30,False,Active / Not Yet Qualified
+CUST00903,3,2026-09-22,30,False,Active / Not Yet Qualified
+CUST01308,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00271,5,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01588,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00318,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST02199,9,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00530,10,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01092,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST02484,5,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00791,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00057,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00334,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00431,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST02127,10,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00671,3,2026-09-23,29,False,Active / Not Yet Qualified
+CUST02310,5,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01388,9,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00539,7,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00015,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01719,5,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01697,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01593,3,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01745,2,2026-09-23,29,False,Active / Not Yet Qualified
+CUST00986,6,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01747,4,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01159,3,2026-09-23,29,False,Active / Not Yet Qualified
+CUST01688,7,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01527,4,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00766,6,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01418,6,2026-09-24,28,False,Active / Not Yet Qualified
+CUST02174,6,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00541,6,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00505,7,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01455,5,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01695,7,2026-09-24,28,False,Active / Not Yet Qualified
+CUST02187,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01746,8,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01265,9,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01362,4,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01287,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00128,7,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01084,4,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00150,6,2026-09-24,28,False,Active / Not Yet Qualified
+CUST02108,4,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00661,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01216,5,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01220,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01166,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01929,5,2026-09-24,28,False,Active / Not Yet Qualified
+CUST01524,3,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00896,2,2026-09-24,28,False,Active / Not Yet Qualified
+CUST00399,1,2026-09-25,27,False,Insufficient Order History
+CUST02326,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01187,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01613,2,2026-09-25,27,False,Active / Not Yet Qualified
+CUST02206,4,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01959,3,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00529,4,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00324,9,2026-09-25,27,False,Active / Not Yet Qualified
+CUST02400,8,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00300,3,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00508,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01568,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01340,3,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00820,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00059,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00352,2,2026-09-25,27,False,Active / Not Yet Qualified
+CUST02218,3,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00315,5,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01897,7,2026-09-25,27,False,Active / Not Yet Qualified
+CUST02103,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00586,6,2026-09-25,27,False,Active / Not Yet Qualified
+CUST02220,3,2026-09-25,27,False,Active / Not Yet Qualified
+CUST01119,5,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00009,2,2026-09-25,27,False,Active / Not Yet Qualified
+CUST00139,9,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00776,6,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01127,10,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01047,8,2026-09-26,26,False,Active / Not Yet Qualified
+CUST02084,7,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00117,6,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00361,6,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01827,6,2026-09-26,26,False,Active / Not Yet Qualified
+CUST02094,6,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00130,11,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00620,7,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00144,5,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00758,3,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01927,7,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01417,5,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01995,4,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00936,5,2026-09-26,26,False,Active / Not Yet Qualified
+CUST02363,2,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01460,2,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01496,3,2026-09-26,26,False,Active / Not Yet Qualified
+CUST02131,7,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00921,2,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01971,3,2026-09-26,26,False,Active / Not Yet Qualified
+CUST00428,2,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01235,3,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01755,2,2026-09-26,26,False,Active / Not Yet Qualified
+CUST01969,7,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00876,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00495,8,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01379,4,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01479,5,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00569,4,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01572,5,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00413,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01716,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01323,4,2026-09-27,25,False,Active / Not Yet Qualified
+CUST02126,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST02318,5,2026-09-27,25,False,Active / Not Yet Qualified
+CUST02476,8,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00250,3,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00482,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00850,9,2026-09-27,25,False,Active / Not Yet Qualified
+CUST02124,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01285,2,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01280,2,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01623,4,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00672,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01935,6,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01670,3,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00904,4,2026-09-27,25,False,Active / Not Yet Qualified
+CUST00838,2,2026-09-27,25,False,Active / Not Yet Qualified
+CUST01696,5,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02172,5,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02002,7,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02468,5,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02382,2,2026-09-28,24,False,Active / Not Yet Qualified
+CUST00386,8,2026-09-28,24,False,Active / Not Yet Qualified
+CUST00251,4,2026-09-28,24,False,Active / Not Yet Qualified
+CUST00297,8,2026-09-28,24,False,Active / Not Yet Qualified
+CUST00984,8,2026-09-28,24,False,Active / Not Yet Qualified
+CUST01559,8,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02338,4,2026-09-28,24,False,Active / Not Yet Qualified
+CUST00032,4,2026-09-28,24,False,Active / Not Yet Qualified
+CUST02219,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02123,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00346,3,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01890,5,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01902,5,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01387,8,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02471,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01620,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01059,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01610,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01687,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00075,8,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00156,5,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02296,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01090,3,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00504,8,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02495,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02112,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01116,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST01605,4,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00828,6,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00794,3,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02412,3,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02482,6,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00782,5,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02040,7,2026-09-29,23,False,Active / Not Yet Qualified
+CUST00483,5,2026-09-29,23,False,Active / Not Yet Qualified
+CUST02341,11,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01063,7,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02066,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00826,7,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02427,6,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02428,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02102,6,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00463,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00634,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02137,3,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00540,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00294,3,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00289,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00350,8,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00928,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01656,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00595,8,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00157,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01577,2,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01665,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01576,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00193,2,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01134,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02375,6,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02031,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01842,5,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01019,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00878,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01751,2,2026-09-30,22,False,Active / Not Yet Qualified
+CUST01497,4,2026-09-30,22,False,Active / Not Yet Qualified
+CUST02259,3,2026-09-30,22,False,Active / Not Yet Qualified
+CUST00548,9,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00719,5,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00821,6,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00728,8,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01681,9,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01733,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01089,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01368,8,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00866,6,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00700,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00469,8,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01516,7,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01906,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01777,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00339,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01828,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST02064,6,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01492,3,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00943,6,2026-10-01,21,False,Active / Not Yet Qualified
+CUST02367,3,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01431,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01046,5,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01702,8,2026-10-01,21,False,Active / Not Yet Qualified
+CUST02091,6,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01951,4,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00248,9,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01483,3,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01068,2,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00353,2,2026-10-01,21,False,Active / Not Yet Qualified
+CUST01412,2,2026-10-01,21,False,Active / Not Yet Qualified
+CUST00175,6,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01344,7,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00037,7,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01038,10,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00501,6,2026-10-02,20,False,Active / Not Yet Qualified
+CUST02369,4,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00855,4,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00208,2,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00434,3,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01908,8,2026-10-02,20,False,Active / Not Yet Qualified
+CUST02203,6,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01100,8,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00662,5,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01646,4,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01845,4,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01131,5,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01686,1,2026-10-02,20,False,Insufficient Order History
+CUST01271,7,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01874,5,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01838,8,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01625,3,2026-10-02,20,False,Active / Not Yet Qualified
+CUST01641,5,2026-10-02,20,False,Active / Not Yet Qualified
+CUST02391,3,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00912,4,2026-10-02,20,False,Active / Not Yet Qualified
+CUST02000,3,2026-10-02,20,False,Active / Not Yet Qualified
+CUST00100,3,2026-10-02,20,False,Active / Not Yet Qualified
+CUST02410,1,2026-10-02,20,False,Insufficient Order History
+CUST02282,9,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00421,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01633,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00884,3,2026-10-03,19,False,Active / Not Yet Qualified
+CUST02101,5,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01351,5,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00512,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00394,3,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00488,10,2026-10-03,19,False,Active / Not Yet Qualified
+CUST02038,5,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01820,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01925,7,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00919,7,2026-10-03,19,False,Active / Not Yet Qualified
+CUST02298,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00750,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01536,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01306,8,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00932,5,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00922,2,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01850,8,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00528,6,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01395,5,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01054,4,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01548,7,2026-10-03,19,False,Active / Not Yet Qualified
+CUST02270,4,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01517,4,2026-10-03,19,False,Active / Not Yet Qualified
+CUST00072,2,2026-10-03,19,False,Active / Not Yet Qualified
+CUST01349,9,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00351,9,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01505,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01031,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00978,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01122,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST02496,4,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00265,6,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00596,4,2026-10-04,18,False,Active / Not Yet Qualified
+CUST02125,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00774,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01454,4,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01254,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01377,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00160,4,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01299,8,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00685,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01203,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00070,2,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01133,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01318,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01569,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00211,2,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01389,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00275,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01115,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00614,6,2026-10-04,18,False,Active / Not Yet Qualified
+CUST02144,4,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00573,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00849,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01348,7,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00941,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01724,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01782,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00594,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00356,5,2026-10-04,18,False,Active / Not Yet Qualified
+CUST02432,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00533,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST01491,3,2026-10-04,18,False,Active / Not Yet Qualified
+CUST00945,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00255,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01979,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01020,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00273,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01413,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00915,2,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01333,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02157,8,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01004,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00226,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00935,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02249,2,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01958,10,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02362,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00372,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00451,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00149,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00714,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00640,8,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00689,3,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01397,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01328,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00645,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02312,7,2026-10-05,17,False,Active / Not Yet Qualified
+CUST01659,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00650,3,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02248,6,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00020,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST02380,4,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00862,5,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00084,3,2026-10-05,17,False,Active / Not Yet Qualified
+CUST00436,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00647,7,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01672,9,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01891,5,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02442,5,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01903,6,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02490,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01900,8,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00132,5,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02454,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01647,7,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02155,6,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02422,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01776,6,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01761,7,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00655,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01770,6,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00038,3,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00968,3,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02244,3,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01650,2,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00989,5,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01352,6,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00914,5,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02430,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01660,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01592,2,2026-10-06,16,False,Active / Not Yet Qualified
+CUST01691,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST02339,4,2026-10-06,16,False,Active / Not Yet Qualified
+CUST00617,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01860,7,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00770,6,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00010,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00098,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01996,7,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00810,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01106,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01717,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00146,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01973,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01139,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00382,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00359,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02456,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02055,10,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02289,8,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00881,9,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00056,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01380,3,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00682,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02015,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01023,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00323,9,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01073,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00907,6,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00557,2,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02120,6,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01851,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00833,8,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02370,3,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01634,8,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01173,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00230,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01829,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00086,3,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01557,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00052,8,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01060,5,2026-10-07,15,False,Active / Not Yet Qualified
+CUST01930,4,2026-10-07,15,False,Active / Not Yet Qualified
+CUST02079,2,2026-10-07,15,False,Active / Not Yet Qualified
+CUST00473,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00202,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01723,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00071,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00292,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01245,7,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01191,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST02486,4,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00424,3,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00082,1,2026-10-08,14,False,Insufficient Order History
+CUST02118,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00829,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01290,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST02100,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00167,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00336,7,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00293,2,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01376,4,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00103,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01405,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01753,2,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00316,4,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00975,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00783,2,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01526,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01422,7,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01937,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00637,7,2026-10-08,14,False,Active / Not Yet Qualified
+CUST02158,5,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01682,2,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01599,7,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01521,6,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01570,4,2026-10-08,14,False,Active / Not Yet Qualified
+CUST00190,2,2026-10-08,14,False,Active / Not Yet Qualified
+CUST01329,9,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02383,9,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00126,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01312,7,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02381,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01152,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01124,8,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00613,8,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01749,8,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00253,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01866,12,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01869,4,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01451,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02351,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02311,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00566,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00379,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00184,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00474,6,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02464,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01583,4,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00213,11,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01813,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00748,4,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01050,4,2026-10-09,13,False,Active / Not Yet Qualified
+CUST00274,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02148,5,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01262,8,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02192,2,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01992,4,2026-10-09,13,False,Active / Not Yet Qualified
+CUST01972,3,2026-10-09,13,False,Active / Not Yet Qualified
+CUST02429,6,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01383,7,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00438,11,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01229,6,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01207,5,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00778,6,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00496,7,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00116,3,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00848,8,2026-10-10,12,False,Active / Not Yet Qualified
+CUST02054,4,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01419,8,2026-10-10,12,False,Active / Not Yet Qualified
+CUST02467,10,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00749,9,2026-10-10,12,False,Active / Not Yet Qualified
+CUST02116,7,2026-10-10,12,False,Active / Not Yet Qualified
+CUST02061,4,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01163,6,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00577,8,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01649,8,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01875,6,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01324,4,2026-10-10,12,False,Active / Not Yet Qualified
+CUST02122,5,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01807,5,2026-10-10,12,False,Active / Not Yet Qualified
+CUST00517,2,2026-10-10,12,False,Active / Not Yet Qualified
+CUST01355,3,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01439,3,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01630,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST02222,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01685,2,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01506,5,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01446,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01684,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01239,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00745,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00863,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01855,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00854,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00954,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST02309,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01103,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01332,11,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01121,10,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00282,3,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01913,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00994,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00087,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01095,9,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00625,7,2026-10-11,11,False,Active / Not Yet Qualified
+CUST02273,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00017,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00795,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST02455,5,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00635,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00338,3,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00489,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00711,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00798,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01208,5,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01098,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00040,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01910,5,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00354,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01146,4,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01462,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00807,5,2026-10-11,11,False,Active / Not Yet Qualified
+CUST02399,6,2026-10-11,11,False,Active / Not Yet Qualified
+CUST01429,8,2026-10-11,11,False,Active / Not Yet Qualified
+CUST00369,1,2026-10-11,11,False,Insufficient Order History
+CUST01730,11,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00824,3,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01199,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00404,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01302,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00090,4,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01487,8,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00391,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00328,9,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01520,5,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00053,4,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00296,6,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00047,5,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00241,6,2026-10-12,10,False,Active / Not Yet Qualified
+CUST02305,10,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00545,4,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00179,6,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01015,4,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00122,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00342,8,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01036,5,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01315,4,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01151,6,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01064,5,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00920,3,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01888,3,2026-10-12,10,False,Active / Not Yet Qualified
+CUST02153,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00759,7,2026-10-12,10,False,Active / Not Yet Qualified
+CUST02224,3,2026-10-12,10,False,Active / Not Yet Qualified
+CUST00763,3,2026-10-12,10,False,Active / Not Yet Qualified
+CUST01277,3,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00171,6,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00446,9,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01858,3,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00900,10,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00818,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02211,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02159,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01896,12,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00859,7,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02373,7,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01490,7,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00433,9,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02253,2,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00398,6,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02183,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01532,10,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02333,6,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02371,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01269,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01393,6,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00727,3,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01155,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01040,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01022,5,2026-10-13,9,False,Active / Not Yet Qualified
+CUST02162,6,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00440,3,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01823,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01938,2,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01475,7,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01609,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01535,8,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01955,4,2026-10-13,9,False,Active / Not Yet Qualified
+CUST00730,3,2026-10-13,9,False,Active / Not Yet Qualified
+CUST01286,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01804,8,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02436,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00787,10,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01169,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00325,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01642,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02107,6,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00447,2,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01035,9,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00836,11,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00238,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01322,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00674,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01862,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00093,8,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01934,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00320,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01859,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01341,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00185,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00588,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02299,6,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00012,10,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01283,6,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01028,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01586,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00348,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02208,7,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00555,9,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00601,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02377,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00137,5,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00102,6,2026-10-14,8,False,Active / Not Yet Qualified
+CUST01976,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00217,6,2026-10-14,8,False,Active / Not Yet Qualified
+CUST00872,4,2026-10-14,8,False,Active / Not Yet Qualified
+CUST02286,7,2026-10-15,7,False,Active / Not Yet Qualified
+CUST02003,10,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01225,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01773,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01160,11,2026-10-15,7,False,Active / Not Yet Qualified
+CUST02209,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00384,10,2026-10-15,7,False,Active / Not Yet Qualified
+CUST02323,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01274,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00718,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00582,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00624,10,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00286,8,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01006,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST02472,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00666,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00643,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01658,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01715,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01864,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01607,9,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01411,7,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00957,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01244,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01909,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00970,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00319,10,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01249,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01243,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00164,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01196,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00570,6,2026-10-15,7,False,Active / Not Yet Qualified
+CUST02139,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01578,5,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00605,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00219,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00789,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00365,2,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00521,3,2026-10-15,7,False,Active / Not Yet Qualified
+CUST00679,4,2026-10-15,7,False,Active / Not Yet Qualified
+CUST01880,7,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01206,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01367,2,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02011,7,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01001,3,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01252,7,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00220,9,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01247,4,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02025,7,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00215,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00099,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00648,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01474,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00092,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00189,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00310,11,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01478,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00060,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01473,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02012,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01768,3,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00721,9,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00815,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02227,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00802,9,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00159,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01981,3,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00419,6,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02105,7,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00895,5,2026-10-16,6,False,Active / Not Yet Qualified
+CUST02449,4,2026-10-16,6,False,Active / Not Yet Qualified
+CUST01338,4,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00535,1,2026-10-16,6,False,Insufficient Order History
+CUST00509,3,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00958,2,2026-10-16,6,False,Active / Not Yet Qualified
+CUST00298,8,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02293,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01867,9,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01174,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00467,8,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02136,11,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00163,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00636,3,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01579,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02150,5,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01698,9,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02179,5,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00931,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01990,9,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01200,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00078,7,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00476,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01320,11,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00186,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01258,8,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02048,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00312,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02204,5,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00481,6,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01565,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01653,3,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00242,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01766,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST01795,4,2026-10-17,5,False,Active / Not Yet Qualified
+CUST02461,2,2026-10-17,5,False,Active / Not Yet Qualified
+CUST00212,3,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01257,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01854,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02092,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01819,3,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01270,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01632,10,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01317,8,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01267,9,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01457,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01461,7,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00370,10,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01381,8,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02072,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01873,7,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02405,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01256,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01530,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02403,7,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02096,8,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01825,9,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00272,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00841,2,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00442,7,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01062,3,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01933,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00805,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01970,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00307,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01075,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00246,4,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02217,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01848,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00950,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST02076,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00747,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01936,6,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01837,5,2026-10-18,4,False,Active / Not Yet Qualified
+CUST00138,3,2026-10-18,4,False,Active / Not Yet Qualified
+CUST01584,1,2026-10-18,4,False,Insufficient Order History
+CUST02475,5,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00500,9,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00827,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02081,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00390,5,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00611,6,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01679,6,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02343,9,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00267,8,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01224,9,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01296,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02142,11,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01086,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01291,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00926,6,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01057,5,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01093,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01369,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00597,8,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00547,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01053,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01657,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01178,5,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02030,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01425,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02114,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02186,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01683,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00522,6,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01168,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02266,3,2026-10-19,3,False,Active / Not Yet Qualified
+CUST01781,5,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02242,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00856,7,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00684,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST02300,4,2026-10-19,3,False,Active / Not Yet Qualified
+CUST00478,1,2026-10-19,3,False,Insufficient Order History
+CUST00303,1,2026-10-19,3,False,Insufficient Order History
+CUST02478,10,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01764,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00110,3,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02499,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01713,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00982,8,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01960,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01566,8,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01409,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02493,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01414,8,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00256,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02151,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00723,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00401,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00197,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02198,9,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00471,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01008,10,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00733,6,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02398,10,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00437,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00259,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01631,6,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00332,9,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01692,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00287,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02049,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00960,6,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01967,6,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02039,3,2026-10-20,2,False,Active / Not Yet Qualified
+CUST02292,6,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01281,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01498,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00800,4,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01582,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01954,7,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00765,5,2026-10-20,2,False,Active / Not Yet Qualified
+CUST01069,3,2026-10-20,2,False,Active / Not Yet Qualified
+CUST00194,3,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01399,5,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01011,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00321,13,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00659,8,2026-10-21,1,False,Active / Not Yet Qualified
+CUST02230,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST02477,5,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01946,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00567,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00480,5,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00177,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00188,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01396,3,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00860,9,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01114,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST02291,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01635,8,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01209,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01509,5,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01537,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01541,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00656,3,2026-10-21,1,False,Active / Not Yet Qualified
+CUST02424,7,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00755,11,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00472,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01785,3,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00011,8,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01585,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00861,5,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01468,2,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00937,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00178,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00847,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST02056,6,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00632,1,2026-10-21,1,False,Insufficient Order History
+CUST02302,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00953,3,2026-10-21,1,False,Active / Not Yet Qualified
+CUST01477,4,2026-10-21,1,False,Active / Not Yet Qualified
+CUST00281,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01879,7,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00923,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST02194,9,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00019,8,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00687,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00143,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST02042,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01330,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01878,8,2026-10-22,0,False,Active / Not Yet Qualified
+CUST02182,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00441,7,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00383,8,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01144,1,2026-10-22,0,False,Insufficient Order History
+CUST01999,10,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01029,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00497,2,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01614,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01319,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01962,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01596,10,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01311,2,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01545,7,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00487,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01763,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01183,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST02402,9,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00754,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01680,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00026,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00133,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00654,6,2026-10-22,0,False,Active / Not Yet Qualified
+CUST02483,7,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01428,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00465,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00511,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01253,4,2026-10-22,0,False,Active / Not Yet Qualified
+CUST00152,5,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01923,3,2026-10-22,0,False,Active / Not Yet Qualified
+CUST01882,0,,,False,Insufficient Order History
+CUST00349,0,,,False,Insufficient Order History
+CUST00120,0,,,False,Insufficient Order History
+CUST00581,0,,,False,Insufficient Order History
+CUST01772,0,,,False,Insufficient Order History
+CUST01731,0,,,False,Insufficient Order History
+CUST01675,0,,,False,Insufficient Order History
+CUST01853,0,,,False,Insufficient Order History
+CUST01424,0,,,False,Insufficient Order History
+CUST00249,0,,,False,Insufficient Order History
