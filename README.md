@@ -65,7 +65,30 @@ This is a rule-based classification, not a machine-learning prediction.
 
 ## Key Findings
 
-*Add verified findings from your SQL and Python outputs here.*
+### Order Status
+
+- **Total orders:** 13,000
+- **Completed:** 11,433 (87.95%)
+- **Cancelled:** 1,038 (7.98%)
+- **Returned:** 529 (4.07%)
+
+Most orders in this synthetic dataset were completed. Cancelled and returned orders together accounted for 12.05% of all orders.
+
+### Completed Order Performance
+
+- **Completed orders:** 11,433
+- **Unique customers across completed orders:** 2,470
+- **Total completed order value:** 14,908,918.65
+- **Average value per completed order:** 1,304.03
+
+The average completed order value was 1,304.03 units of the dataset's currency, which has not yet been specified.
+
+### Interpretation
+
+These metrics establish a baseline for evaluating order outcomes and completed-order performance. Further analysis of monthly trends, product categories, and customer inactivity can help explore patterns in the synthetic data.
+
+**Data limitation:** This project uses synthetic data. These figures are illustrative and do not represent the performance of a real business.
+
 
 ## Limitations
 
