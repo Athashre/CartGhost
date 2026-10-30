@@ -50,6 +50,10 @@ The dataset's currency unit has not been specified, so monetary figures are repo
 
 March was the strongest complete month by completed order volume and total order value.
 
+### Monthly Trends Visualization
+
+![CartGhost Monthly Trends](reports/monthly_trends_2026.png)
+
 ### 4. Month-over-Month Analysis
 
 - February recorded an 8.44% decrease in completed orders compared with January.
