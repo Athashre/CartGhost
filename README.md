@@ -8,7 +8,7 @@ The project demonstrates data cleaning, validation, aggregation, SQL window func
 
 **Dataset:** Synthetic e-commerce order data  
 **Analysis period:** January 1 – October 22, 2026  
-**Tools:** Python, pandas, NumPy, Matplotlib, PostgreSQL, SQL, Git
+**Tools:** Python, pandas, NumPy, Matplotlib, PostgreSQL, Power BI, SQL, Git and GitHub
 
 ## Business Objectives
 
@@ -106,4 +106,4 @@ These percentages use the 2,470 customers with at least one completed order. The
 - Monthly trend CSV and visualization.
 - Customer-level potential churn results.
 - Business findings report.
-
+- Interactive Power BI dashboard (`CartGhost_Dashboard.pbix`)
