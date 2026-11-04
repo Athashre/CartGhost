@@ -192,3 +192,18 @@ These are proposed investigations, not conclusions proven by the synthetic data.
 CartGhost demonstrates an end-to-end analytics workflow that includes data validation, order performance analysis, monthly trend analysis, category comparison, and rule-based customer segmentation.
 
 The project highlights the importance of accurate metric definitions, careful interpretation of incomplete periods, and transparent communication of data limitations.
+
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to present the key findings from the CartGhost analysis.
+
+The dashboard includes:
+- KPI cards for total orders, completed orders, total order value, and average order value.
+- Monthly completed order and sales trends.
+- Category-wise sales performance.
+- Order status breakdown.
+- Customer churn overview using a 45-day inactivity rule.
+- Interactive category and order status filters.
+
+The dashboard helps users explore order performance and customer activity through visual summaries.
