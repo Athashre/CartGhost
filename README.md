@@ -107,3 +107,7 @@ These percentages use the 2,470 customers with at least one completed order. The
 - Customer-level potential churn results.
 - Business findings report.
 - Interactive Power BI dashboard (`CartGhost_Dashboard.pbix`)
+
+### Power BI Dashboard Preview
+
+![CartGhost Power BI Dashboard](reports/cartghost_dashboard.png)
